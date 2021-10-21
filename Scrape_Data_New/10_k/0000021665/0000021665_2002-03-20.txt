@@ -1,0 +1,3153 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                               -----------------
+
+                                   FORM 10-K
+
+(Mark One)
+(X) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+   For the fiscal year ended December 31, 2001
+
+                                      OR
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+   For the transition period from ______________ to ______________.
+
+                         Commission File Number 1-644
+
+                               -----------------
+
+
+[LOGO] COLGATE-PALMOLIVE COMPANY
+            (Exact name of registrant as specified in its charter)
+
+                      DELAWARE                 13-1815595
+                   (State or other          (I.R.S. Employer
+                   jurisdiction of         Identification No.)
+                  incorporation or
+                    organization)
+
+                300 Park Avenue, New              10022
+                   York, New York
+                (Address of principal          (Zip Code)
+                 executive offices)
+
+        Registrant's telephone number, including area code 212-310-2000
+          Securities Registered Pursuant to Section 12(b) of the Act:
+
+                                        Name of each exchange on
+                 Title of each class        which registered
+                 -------------------        ----------------
+               $4.25 Preferred Stock,    New York Stock Exchange
+                  without par value,
+                 cumulative dividend
+
+               Common Stock, $1.00 par   New York Stock Exchange
+                         value
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes _X_ No ___
+
+   Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [   ]
+
+   At February 28, 2002 the aggregate market value of stock held by
+non-affiliates was $30.7 billion. There were 548,974,068 shares of Common Stock
+outstanding as of February 28, 2002.
+
+                     DOCUMENTS INCORPORATED BY REFERENCE:
+
+                      Documents            Form 10-K Reference
+                      ---------            -------------------
+                  Portions of Proxy        Part III, Items 10
+                Statement for the 2002         through 13
+                    Annual Meeting
+
+<PAGE>
+
+                                    PART I
+
+ITEM 1.  BUSINESS
+
+  (a) General Development of the Business
+
+   Colgate-Palmolive Company (together with its subsidiaries, the "Company"),
+which was organized under the laws of the State of Delaware in 1923, is a
+leading consumer products company whose products are marketed in over 200
+countries and territories throughout the world.
+
+   For recent business developments, refer to the information set forth under
+the captions "Results of Operations", "Liquidity and Capital Resources" and
+"Outlook" in Part II, Item 7 of this report.
+
+  (b) Financial Information About Industry Segments
+
+   Worldwide net sales and earnings by business segment and geographic region
+during the last three years appear under the caption "Results of Operations" in
+Part II, Item 7 of this report.
+
+  (c) Narrative Description of the Business
+
+   The Company manages its business in two distinct product segments: Oral,
+Personal and Household Care, and Pet Nutrition. Colgate is a global leader in
+Oral Care with the leading toothpaste brand in the U.S. and throughout many
+parts of the world. Colgate's Oral Care products include toothbrushes,
+toothpaste, mouth rinses and dental floss, and pharmaceutical products for
+dentists and other oral health professionals. Significant recent product
+launches in this segment include Colgate 2in1 toothpaste and mouthwash, Colgate
+Total Plus Whitening, Colgate Herbal and Colgate Fresh Confidence toothpastes,
+and the Colgate Actibrush and Colgate Motion battery-powered toothbrushes.
+
+   Colgate leads many segments of the Personal Care market with several
+products including bar and liquid hand soaps, shower gels, shampoos,
+conditioners, deodorants and antiperspirants and shave products. Colgate is the
+market leader in liquid soaps in the U.S. and globally is the market leader in
+male deodorant sticks. Significant recent product launches in this segment
+include the Softsoap and Palmolive brands of body washes and liquid hand soaps
+such as Softsoap Fruit Essentials and Palmolive Vitamins shower gel and liquid
+hand soap, and Palmolive Aromatherapy shower gel and bath foam. Colgate also
+manufactures and markets Mennen underarm antiperspirants and deodorants and
+other men's toiletries.
+
+   Colgate manufactures and markets a wide array of products for Household
+Care. Major products include Palmolive and Ajax dishwashing liquid and Fabuloso
+household cleansers. Colgate also markets other household names in cleaning and
+laundry products in the U.S. such as Fab, Ajax and Murphy's oil soap. In the
+Company's major markets outside the U.S., Colgate is number one in fabric
+conditioners with leading brands Suavitel in Latin America and Soupline in
+Europe. Significant recent product launches in this segment include Palmolive
+Spring Sensations dishwashing liquid, Ajax wipes and new variants of Ajax Fete
+des Fleurs cleaner.
+
+   Sales of Oral, Personal, Household and Fabric Care products accounted for
+34%, 24%, 16% and 13% of total worldwide sales in 2001, respectively.
+Geographically, Oral Care is a significant part of the Company's business in
+Asia/Africa, comprising approximately 51% of sales in that region for 2001. For
+more information regarding the Company's worldwide sales by product categories,
+refer to Note 1 of the Consolidated Financial Statements included herein.
+
+   Colgate, through its Hill's Pet Nutrition subsidiary, is the world leader in
+specialty pet nutrition products for dogs and cats. Hill's markets pet foods
+primarily under two trademarks: Science Diet, which is sold by authorized pet
+supply retailers, breeders and veterinarians for every day nutritional needs,
+and Prescription Diet for dogs and cats with disease conditions. Significant
+recent product launches in this segment include Science Diet Canine and Feline
+Oral Care, Prescription Diet Canine b/d formula that reduces the effects of
+canine brain aging, and Prescription Diet Canine and Feline z/d for allergic
+animals. Hill's sells its products in 80 countries and leads the premium pet
+food segment in North America, Japan and South Africa. Sales of Pet Nutrition
+products accounted for 13% of total worldwide sales in 2001.
+
+                                      2
+
+<PAGE>
+
+Research and Development
+
+   Strong research and development capabilities enable Colgate to support its
+many brands with technologically sophisticated products for consumers' personal
+and household care needs and pet nutrition needs. Company spending related to
+research and development activities was $184.9 million and $176.1 million
+during 2001 and 2000, respectively.
+
+Distribution; Competition; Trademarks and Patents
+
+   The Company's products are generally marketed by a direct sales force at
+each individual operating subsidiary or business unit. In some instances,
+distributors or brokers are used. No single customer accounts for as much as
+10% of the Company's sales.
+
+   Most raw materials are purchased from other companies and are available from
+several sources. Raw material commodities such as tallow and essential oils are
+subject to wide price variations. No single raw material represents a
+significant portion of the Company's total material requirements.
+
+   The Company's products are sold in a highly competitive global marketplace
+which is experiencing increased trade concentration. Products similar to those
+produced and sold by the Company are available from competitors in the U.S. and
+overseas. Certain of the Company's competitors are larger and have greater
+resources than the Company. Product quality, brand recognition and acceptance
+and marketing capability largely determine success in the Company's business
+segments.
+
+   Trademarks are considered to be of material importance to the Company's
+business. The Company follows a practice of seeking trademark protection by all
+available means in the United States and throughout the world where the
+Company's products are sold. Principal global trademarks include Colgate,
+Palmolive, Kolynos, Mennen, Protex, Ajax, Soupline, Suavitel, Fab, Science Diet
+and Prescription Diet in addition to several regional trademarks. These
+trademarks are of significant importance to the Company and its subsidiaries
+within their markets. The Company's rights in these trademarks endure for as
+long as they are used and registered. Although the Company owns a number of
+patents, no single patent is considered significant to the business as a whole.
+
+Employees
+
+   At year-end, the Company employed approximately 38,500 employees of which
+approximately 80% were located outside the United States.
+
+Environmental Matters
+
+   It is the Company's policy to fully comply with environmental rules and
+regulations. Capital expenditures for environmental control facilities totaled
+$27.0 million for 2001. For future years, expenditures are expected to be in
+the same range. The Company has programs that are designed to ensure that its
+operations and facilities meet or exceed applicable rules and regulations. For
+information regarding other environmental matters refer to Note 14 to the
+Consolidated Financial Statements included herein.
+
+  (d) Financial Information About Foreign and Domestic Operations and Export
+  Sales
+
+   For information concerning geographic area financial data refer to the
+information set forth under the caption "Results of Operations" in Part II,
+Item 7 of this report.
+
+                                      3
+
+<PAGE>
+
+ITEM 2.  PROPERTIES
+
+   The Company owns and leases a total of 295 manufacturing, distribution,
+research and office facilities worldwide. Corporate headquarters is located in
+leased facilities at 300 Park Avenue, New York, New York.
+
+   In the United States, the Company operates 46 facilities, of which 20 are
+owned. Major U.S. manufacturing and warehousing facilities used by the Oral,
+Personal and Household Care segment are located in Kansas City, Kansas;
+Morristown, New Jersey; Jeffersonville, Indiana; and Cambridge, Ohio. The Pet
+Nutrition segment has major facilities in Bowling Green, Kentucky; Topeka,
+Kansas; Commerce, California; and Richmond, Indiana. The primary research
+center for Oral, Personal and Household Care products is located in Piscataway,
+New Jersey and the primary research center for Pet Nutrition products is
+located in Topeka, Kansas. Other research facilities are located in select
+overseas locations.
+
+   Overseas, the Company operates 249 facilities, of which 90 are owned, in
+over 70 countries. Major overseas facilities used by the Oral, Personal and
+Household Care segment are located in Australia, Brazil, Canada, China,
+Colombia, France, Italy, Malaysia, Mexico, South Africa, Thailand, the United
+Kingdom, Venezuela and elsewhere throughout the world. In some areas outside
+the United States, products are either manufactured by independent contractors
+under Company specifications or are imported from the United States or
+elsewhere.
+
+   All facilities operated by the Company are, in general, well maintained and
+adequate for the purpose for which they are intended. The Company conducts
+continuing reviews of its facilities with the view to modernization and cost
+reduction.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+   In 1995, the Company acquired the Kolynos oral care business from American
+Home Products, as described in the Company's Form 8-K dated January 10, 1995.
+On September 8, 1998, the Company's Brazilian subsidiary received notice of an
+administrative proceeding from the Central Bank of Brazil primarily taking
+issue with certain foreign exchange filings made with the Central Bank in
+connection with the financing of this strategic transaction, but in no way
+challenging or seeking to unwind the acquisition. The Central Bank of Brazil in
+January 2001 notified the Company of its decision in this administrative
+proceeding to impose a fine, which, at the current exchange rate, approximates
+$110 million. The Company has appealed the decision to the Brazilian Monetary
+System Appeals Council (the "Council"), thereby suspending the fine pending the
+decision of the Council. If the fine is affirmed, interest and penalties may
+also be assessed. Further appeals are available within the Brazilian federal
+courts. Management believes, based on the opinion of its Brazilian legal
+counsel and other experts, that the filings challenged by the Central Bank
+fully complied with Brazilian law and that the Company will prevail on appeal.
+The Company intends to challenge this fine vigorously. In addition, in the
+course of monitoring the Central Bank proceeding, the Company learned recently
+that Brazilian prosecutors are reviewing the foregoing transactions as part of
+an overall examination of all international transfers of Reais through
+non-resident current accounts during the 1992 to 1998 time frame. The Company
+understands that this examination involves hundreds and possibly thousands of
+other individuals and companies.
+
+   In addition, the Brazilian internal revenue authority has disallowed
+interest deductions and foreign exchange losses taken by the Company's
+Brazilian subsidiary in connection with the financing of the Kolynos
+acquisition, imposing a tax assessment which has been determined, at the
+current exchange rate, to approximate $40 million. The Company has filed an
+administrative appeal with the Brazilian internal revenue authority, and
+further appeals are available within the Brazilian federal courts. Management
+believes, based on the opinion of its Brazilian legal counsel and other
+experts, that the disallowance is without merit and that the Company will
+prevail on appeal. The Company intends to challenge this assessment vigorously.
+
+   For information regarding other legal matters refer to Note 14 to the
+Consolidated Financial Statements.
+
+                                      4
+
+<PAGE>
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+   None.
+
+                     EXECUTIVE OFFICERS OF THE REGISTRANT
+
+   The following is a list of executive officers as of March 20, 2002:
+
+<TABLE>
+<CAPTION>
+                        Date First
+                         Elected
+       Name         Age  Officer                     Present Title
+       ----         --- ----------                   -------------
+<S>                 <C> <C>        <C>
+Reuben Mark........ 63     1974    Chairman of the Board and Chief Executive Officer
+William S. Shanahan 61     1983    President
+Lois D. Juliber.... 53     1991    Chief Operating Officer
+Javier G. Teruel... 51     1996    Chief Growth Officer
+Ian M. Cook........ 49     1996    Executive Vice President
+                                   President, Colgate-North America
+Stephen C. Patrick. 52     1990    Chief Financial Officer
+Andrew D. Hendry... 54     1991    Senior Vice President
+                                   General Counsel and Secretary
+Michael J. Tangney. 57     1993    Executive Vice President
+                                   President, Colgate-Latin America
+Robert J. Joy...... 55     1996    Senior Vice President
+                                   Global Human Resources
+Dennis J. Hickey... 53     1998    Vice President and
+                                   Corporate Controller
+Robert C. Wheeler.. 60     1991    Chief Executive Officer
+                                   Hill's Pet Nutrition, Inc.
+Steven R. Belasco.. 55     1991    Vice President
+                                   Taxation and Real Estate
+Susan J. Riley..... 43     2001    Vice President
+                                   Treasurer
+Ronald T. Martin... 53     2001    Vice President
+                                   Global Business Practices and Public Affairs
+Michele C. Mayes... 52     2001    Vice President
+                                   Legal and Assistant Secretary
+Peter D. McLeod.... 61     1984    Vice President
+                                   Manufacturing Engineering Technology
+Barrie M. Spelling. 58     1994    President
+                                   Global Oral Care
+</TABLE>
+
+   Each of the executive officers listed above has served the registrant or its
+subsidiaries in various executive capacities for the past five years, with the
+exception of Susan J. Riley, who joined Colgate in January 2001 as Vice
+President of Financial Business Development and was elected to her current
+position effective July 2001. She previously served as the Chief Financial
+Officer of The Dial Corporation, where she worked from 1997 to 2000.
+
+   Under the Company's By-Laws, the officers of the corporation hold office
+until their respective successors are chosen and qualified, or until they have
+resigned, retired or been removed by the affirmative vote of a majority of the
+board of directors.
+
+                                      5
+
+<PAGE>
+
+                                    PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED
+          SHAREHOLDER MATTERS
+
+   Refer to the information regarding the market for the Company's common stock
+and the quarterly market price information appearing under the caption "Market
+and Dividend Information" included herein; the information under "Capital Stock
+and Stock Compensation Plans" in Note 5 to the Consolidated Financial
+Statements; and the "Number of shareholders of record" and "Cash dividends
+declared and paid per common share" under the caption "Historical Financial
+Summary" included herein.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+   Refer to the information set forth under the caption "Historical Financial
+Summary".
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+          RESULTS OF OPERATIONS
+
+(Dollars in Millions Except Per Share Amounts)
+
+Results of Operations
+
+<TABLE>
+<CAPTION>
+
+                                                                2001     2000     1999
+                                                              -------- -------- --------
+<S>                                                           <C>      <C>      <C>
+Worldwide Net Sales by Business Segment and Geographic Region
+Oral, Personal and Household Care
+   North America/(1)/........................................ $2,390.2 $2,310.0 $2,143.7
+   Latin America.............................................  2,443.3  2,507.5  2,356.7
+   Europe....................................................  1,902.1  1,890.1  2,028.8
+   Asia/Africa...............................................  1,512.9  1,532.0  1,519.7
+                                                              -------- -------- --------
+Total Oral, Personal and Household Care......................  8,248.5  8,239.6  8,048.9
+Total Pet Nutrition/(2)/.....................................  1,179.3  1,118.3  1,069.3
+                                                              -------- -------- --------
+   Total Net Sales........................................... $9,427.8 $9,357.9 $9,118.2
+                                                              ======== ======== ========
+</TABLE>
+--------
+/(1)/ Net sales in the United States for Oral, Personal and Household Care were
+      $2,097.9, $2,025.7 and $1,880.8 in 2001, 2000 and 1999, respectively.
+/(2)/ Net sales in the United States for Pet Nutrition were $790.2, $736.0 and
+      $709.2 in 2001, 2000 and 1999, respectively.
+
+Net Sales and Earnings Before Interest and Taxes (EBIT)
+
+   Worldwide net sales increased 1.5%, excluding divestments, to $9,427.8 in
+2001 on volume growth of 5.0%. Net sales would have grown 5.5% excluding
+foreign currency translation. Net sales in the Oral, Personal and Household
+Care segment increased 1.0%, excluding divestments, on 5.0% volume growth,
+while net sales and volume in Pet Nutrition increased by 5.5%. In 2000,
+worldwide net sales increased 2.5% to $9,357.9 on volume growth of 6.0%,
+reflecting the negative impact of foreign currency translation.
+
+   EBIT rose from $1,740.5 in 2000 to $1,834.8 in 2001. The 5% increase
+reflected the Company's strong volume growth and cost-control initiatives that
+were effective in increasing margins. EBIT increased 11% in 2000 to $1,740.5
+from $1,566.2 in 1999.
+
+Gross Profit
+
+   Gross profit margin increased to 55.1%, above both the 2000 level of 54.4%
+and the 1999 level of 53.7%. This favorable trend reflects the Company's
+financial strategy to improve all aspects of its supply chain through global
+sourcing and other cost-reduction initiatives, as well as its emphasis on
+higher margin products.
+
+                                      6
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+
+Selling, General and Administrative Expenses
+
+   Selling, general and administrative expenses as a percentage of sales were
+34.6% in 2001, 35.3% in 2000 and 35.7% in 1999. The overall spending as a
+percentage of sales continued to decline as a result of the Company's ongoing
+focus on overhead reduction and the effect of translation on local currency
+costs.
+
+Media and Other Advertising
+
+   Included in selling, general and administrative expenses is media spending
+of $509.0, $550.9 and $575.6 in 2001, 2000 and 1999, respectively. The trend in
+media spending reflects both lower media pricing and the negative impact of
+exchange. Total advertising support, including media, promotion and other
+consumer and trade incentives which reduce reported sales, has increased in
+each of the years presented.
+
+Other Expense, Net
+
+   Other expense, net, consists principally of amortization of goodwill and
+other intangible assets, minority interest in earnings of less-than-100%-owned
+consolidated subsidiaries, earnings from equity investments, gains on sale of
+non-core product lines, and other miscellaneous gains and losses. Other
+expense, net, increased in 2001 from $52.3 to $94.5 with $27.0 of the increase
+resulting from unrealized losses on foreign currency contracts in 2001 of $11.6
+as compared with unrealized gains of $15.4 in 2000. These contracts are an
+economic hedge of certain foreign currency debt but do not qualify for hedge
+accounting.
+
+   During 2000, the Company incurred charges of $92.7 ($61.2 aftertax),
+including a restructuring charge related to the realignment of certain
+manufacturing operations and the exiting of our business in Nigeria. Also
+included were gains of $102.0 ($60.9 aftertax) recorded on the sale of real
+estate and the sale of the Viva detergent brand in Mexico.
+
+<TABLE>
+<CAPTION>
+                                                               2001      2000      1999
+                                                             --------  --------  --------
+<S>                                                          <C>       <C>       <C>
+Worldwide Earnings by Business Segment and Geographic Region
+Oral, Personal and Household Care
+   North America............................................ $  511.6  $  482.4  $  413.0
+   Latin America............................................    668.2     603.1     535.7
+   Europe...................................................    342.6     320.0     342.0
+   Asia/Africa..............................................    195.9     194.0     166.7
+                                                             --------  --------  --------
+Total Oral, Personal and Household Care.....................  1,718.3   1,599.5   1,457.4
+Total Pet Nutrition.........................................    282.1     243.5     219.9
+Corporate Overhead and Other................................   (165.6)   (102.5)   (111.1)
+                                                             --------  --------  --------
+Earnings Before Interest and Taxes..........................  1,834.8   1,740.5   1,566.2
+Interest Expense, Net.......................................   (166.1)   (173.3)   (171.6)
+                                                             --------  --------  --------
+Income Before Income Taxes.................................. $1,668.7  $1,567.2  $1,394.6
+                                                             ========  ========  ========
+</TABLE>
+
+Segment Results
+
+  North America
+
+   North America net sales grew 3.5% to $2,390.2 on volume gains of 4.5%.
+Volume increases were led by the strength of recently introduced products in
+all core categories. In the Oral Care category, recently introduced products
+such as Colgate Total Plus Whitening toothpaste, Colgate 2in1 toothpaste and
+mouthwash and Colgate Motion battery-powered toothbrush contributed to
+increased volumes and market share. The Personal Care category experienced
+incremental market share driven by volume gains from recently introduced
+products such as the Softsoap Fruit Essentials and Softsoap Vitamins with
+vitamin E shower gels and liquid hand soaps, and the Mennen Speed Stick Power
+of Nature deodorants. The Household Care category had increased volumes from
+products such as Palmolive Spring Sensations dishwashing liquid and Suavitel
+fabric conditioner. In 2000, North America achieved overall sales growth of
+8.5%, excluding divestments, to $2,310.0 on volume growth of 7.5%.
+
+                                      7
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+
+   EBIT in North America grew 6% to $511.6 as a result of volume gains and
+efficiencies in advertising spending. EBIT in 2000 increased 17% to $482.4.
+
+  Latin America
+
+   Net sales in Latin America increased slightly, excluding divestments, to
+$2,443.3 on 5.0% volume growth offset by foreign currency weaknesses. Mexico,
+Brazil, Venezuela, Ecuador and Central America achieved the strongest volume
+gains in the region. Recently launched products including Colgate Herbal,
+Colgate Fresh Confidence and Colgate Triple Action toothpastes contributed to
+increased volumes and market share in the Oral Care category throughout the
+region. Other products contributing to volume gains in the region were Lady
+Speed Stick Ultra Dry deodorant, Palmolive Naturals and Caprice shampoos, Axion
+Spring Sensations dishwashing liquid and Suavitel Fresca Primavera fabric
+conditioner in the Personal and Household Care categories. In 2000, Latin
+America net sales increased 6.5% to $2,507.5 on 5.5% volume growth.
+
+   EBIT in Latin America increased 11% to $668.2 as a result of volume gains,
+higher gross profit margins, continued efforts to contain costs and
+efficiencies in advertising spending. EBIT in 2000 grew 13% to $603.1.
+
+  Europe
+
+   Net sales in Europe increased 1.0%, excluding divestments, to $1,902.1 as
+unit volume gains of 5.5% were partially offset by the weakened euro. Germany,
+the United Kingdom, Greece and Russia achieved the strongest volume gains in
+the region. Recent product launches including Colgate Herbal and Colgate Total
+Plus Whitening toothpastes and the Colgate Actibrush Bzzz for kids
+battery-powered toothbrush contributed to regional volume growth in the Oral
+Care category. In the Personal and Household Care categories, new products such
+as Palmolive Aromatherapy shower gel and bath foam, Palmolive Vitamins shower
+gel and liquid hand soap and Ajax wipes contributed to increased volumes and
+market share. In 2000, Europe net sales declined 7.0% to $1,890.1, due
+primarily to the weakened euro, while volume grew 4.0%.
+
+   EBIT in Europe increased 7% to $342.6 due to volume gains and higher gross
+profit margins. EBIT in 2000 declined 6% to $320.0 as a result of foreign
+currency weakness.
+
+  Asia/Africa
+
+   Net sales in Asia/Africa decreased 1.0% to $1,512.9 as volume gains of 6.0%
+were offset by foreign currency weakness. China, Australia, Malaysia, Thailand
+and South Africa achieved the strongest volume gains in the region. Recent
+product launches including Colgate Fresh Confidence, Colgate Herbal and Colgate
+Triple Action toothpastes contributed to volume gains in the Oral Care
+category. In the Personal and Household Care categories, recently introduced
+products such as the Palmolive Fruit Essentials line of bar soap, liquid hand
+soap and shower gels, Axion Orange Fantasy dishwashing paste and Softlan fabric
+conditioner helped to drive volume growth in the region. In 2000, net sales in
+Asia/Africa increased 1.5%, excluding divestments, to $1,532.0 as volume
+increased 7.5%.
+
+   EBIT grew 1% in Asia/Africa to $195.9 driven by increased volumes and higher
+gross profit margins. EBIT in 2000 grew 16% to $194.0.
+
+  Pet Nutrition
+
+   Net sales for Hill's Pet Nutrition increased 5.5% to $1,179.3 on 5.5% volume
+growth. North American sales increased due to the introduction of innovative
+new products including Science Diet Canine and Feline Oral Care, Science Diet
+Canine Small Bites and Prescription Diet Canine b/d, a clinically proven
+product that reduces the effects of canine brain aging. Hill's also experienced
+strong volume growth in Europe, South Pacific and Latin America driven by new
+products such as Science Diet Canine and Feline Oral Care and Prescription Diet
+Canine and Feline z/d anti-allergy formula. In 2000, net sales for the Pet
+Nutrition segment increased 4.5% to $1,118.3 on 5.5% volume gains.
+
+   EBIT in Pet Nutrition grew 16% to $282.1 driven by increased volumes, higher
+gross profit margins and the continued focus on reducing overhead. EBIT in 2000
+increased 11% to $243.5.
+
+                                      8
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+Interest Expense, Net
+
+   Interest expense, net, was $166.1 compared with $173.3 in 2000 and $171.6 in
+1999. The decrease in net interest expense in 2001 reflected lower interest
+rates partially offset by increased average debt levels related to share
+repurchases during the year.
+
+Income Taxes
+
+   The effective tax rate on income was 31.3% in 2001 versus 32.1% in 2000 and
+32.8% in 1999. Global tax planning strategies, including the realization of
+foreign tax credits and incentives, benefited the effective tax rate in all
+three years presented.
+
+Net Income
+
+   Net income was $1,146.6 in 2001 or $1.89 per share on a diluted basis
+compared with $1,063.8 in 2000 or $1.70 per share and $937.3 in 1999 or $1.47
+per share.
+
+<TABLE>
+<CAPTION>
+                                                 2001     2000     1999
+                                               -------- -------- --------
+       <S>                                     <C>      <C>      <C>
+       Identifiable Assets
+       Oral, Personal and Household Care
+          North America....................... $2,063.6 $2,122.8 $2,076.5
+          Latin America.......................  1,979.9  2,091.3  2,151.4
+          Europe..............................  1,263.6  1,369.4  1,469.1
+          Asia/Africa.........................    942.7  1,013.0  1,061.3
+                                               -------- -------- --------
+       Total Oral, Personal and Household Care  6,249.8  6,596.5  6,758.3
+       Total Pet Nutrition....................    497.6    478.5    476.1
+       Total Corporate........................    237.4    177.3    188.7
+                                               -------- -------- --------
+       Total Identifiable Assets/(1)/......... $6,984.8 $7,252.3 $7,423.1
+                                               ======== ======== ========
+</TABLE>
+--------
+/(1)/ Long-lived assets in the United States, primarily property, plant and
+      equipment and goodwill and other intangibles, represented approximately
+      one-third of total long-lived assets of $4,667.1, $4,813.3 and $4,952.3
+      in 2001, 2000 and 1999, respectively.
+
+                                      9
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+
+Liquidity and Capital Resources
+
+   Net cash provided by operations increased 4% to $1,599.6 compared with
+$1,536.2 in 2000 and $1,292.7 in 1999. The increase reflects the Company's
+improved profitability and working capital management partially offset by
+higher cash taxes. In prior years, cash taxes were reduced by certain tax
+credits that have been fully utilized. Cash generated from operations was used
+to fund capital spending, increase dividends and repurchase common shares.
+
+<TABLE>
+<CAPTION>
+                                                       2001   2000   1999
+                                                      ------ ------ ------
+      <S>                                             <C>    <C>    <C>
+      Capital Expenditures
+         North America............................... $ 69.5 $ 91.8 $ 97.6
+         Latin America...............................  116.6  121.3  118.2
+         Europe......................................   33.3   41.7   60.8
+         Asia/Africa.................................   36.5   45.8   57.0
+                                                      ------ ------ ------
+      Total Oral, Personal and Household Care........  255.9  300.6  333.6
+      Total Pet Nutrition............................   37.0   29.2   21.1
+      Total Corporate................................   47.3   36.8   18.1
+                                                      ------ ------ ------
+             Total Capital Expenditures.............. $340.2 $366.6 $372.8
+                                                      ====== ====== ======
+      Depreciation and Amortization
+         North America............................... $101.1 $ 99.3 $ 97.4
+         Latin America...............................   71.0   74.9   69.0
+         Europe......................................   64.9   67.8   75.9
+         Asia/Africa.................................   47.8   47.0   46.6
+                                                      ------ ------ ------
+      Total Oral, Personal and Household Care........  284.8  289.0  288.9
+      Total Pet Nutrition............................   28.1   30.6   32.5
+      Total Corporate................................   23.3   18.2   18.8
+                                                      ------ ------ ------
+             Total Depreciation and Amortization..... $336.2 $337.8 $340.2
+                                                      ====== ====== ======
+</TABLE>
+
+   Capital expenditures were 4% of net sales for 2001, 2000 and 1999. Capital
+spending continues to be focused primarily on projects that yield high aftertax
+returns. Capital expenditures for 2002 are expected to continue at the current
+rate of approximately 4% of net sales.
+
+   Other investing activities in 2001, 2000 and 1999 included strategic
+acquisitions and divestitures around the world. There were no significant
+acquisitions in 2001. The aggregate purchase price of all 2000 and 1999
+acquisitions was $64.9 and $46.4, respectively. Certain detergent product lines
+in Central America were sold in 2001, the Mexico Viva detergent brand was sold
+in 2000 and the U.S. Baby Magic brand was sold in 1999. The aggregate sale
+price of all 2001, 2000 and 1999 sales of brands was $12.5, $102.5 and $94.7,
+respectively.
+
+   During 2001, long-term debt increased to $3,137.5 from $2,857.1 and total
+debt increased to $3,239.1 from $2,978.2 primarily due to increased share
+repurchases. The Company's long-term debt rating was upgraded in 2001 to AA- by
+Standard & Poor's and Aa3 by Moody's.
+
+   As of December 31, 2001 and 2000, $605.8 and $436.1, respectively, of
+domestic and foreign commercial paper was outstanding. These borrowings carry a
+Standard & Poor's rating of A1+ and a Moody's rating of P1. The commercial
+paper is classified as long-term debt at December 31, 2001, as it is the
+Company's intent and ability to refinance such obligations on a long-term basis.
+
+                                      10
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+   In 1993, the Company formed a financing subsidiary with outside equity
+investors that purchases the Company's receivables. The Company consolidates
+this entity, including such receivables, and reports the amounts invested by
+outside investors as a minority interest. The purpose of this arrangement is to
+provide the Company access to low cost sources of capital. During 2000 this
+subsidiary ceased operations resulting in a cash payment of $113.9 to the
+outside investors. In the fourth quarter of 2001, the subsidiary resumed
+operations with funding of $89.7 from outside investors.
+
+   The Company repurchases common shares in open market and private
+transactions for employee benefit plans and to maintain its targeted capital
+structure. Aggregate repurchases for 2001 were 21.7 million shares, with a
+total purchase price of $1,230.2. In 2000, 19.1 million shares were
+repurchased, with a total purchase price of $1,040.6.
+
+   Dividend payments were $396.7, up from $382.4 in 2000 and $366.0 in 1999.
+Common stock dividend payments increased to $.68 per share in 2001 from $.63
+per share in 2000 and $.59 per share in 1999. The Series B Preference Stock
+dividend payments were increased to $5.40 per share in 2001 from $5.04 per
+share in 2000 and $4.96 in 1999.
+
+   Internally generated cash flows are adequate to support currently planned
+business operations, acquisitions and capital expenditures. Free cash flow
+(defined as cash generated by the business after capital expenditures and
+dividend payments but before acquisitions, divestitures and share repurchases)
+was $862.7 and $787.2 in 2001 and 2000, respectively, and provides the Company
+with flexibility for further investments and/or financing. The Company has
+additional sources of liquidity available in the form of lines of credit
+maintained with various banks and access to financial markets worldwide. At
+December 31, 2001, unused lines of credit amounted to $1,370.5 and the Company
+had $1,351.4 available under a shelf registration filed in 2001. Significant
+acquisitions would require external financing.
+
+   The following represents the scheduled maturities of the Company's long-term
+contractual obligations as of December 31, 2001.
+
+<TABLE>
+<CAPTION>
+                                                       Payments Due by Period
+                                         ---------------------------------------------------
+                                                  Less than                         After 5
+                                          Total    1 Year       1-3 Years 4-5 Years  Years
+                                         -------- ---------     --------- --------- --------
+<S>                                      <C>      <C>           <C>       <C>       <C>
+Long-term debt including current portion $3,137.5 $  931.3/(1)/ $  919.9   $338.2   $  948.1
+Operating leases........................    407.8     71.9         115.5     94.5      125.9
+Unconditional purchase obligations......    156.4     96.4          33.0     27.0         --
+                                         -------- --------      --------   ------   --------
+   Total................................ $3,701.7 $1,099.6      $1,068.4   $459.7   $1,074.0
+                                         ======== ========      ========   ======   ========
+</TABLE>
+--------
+/(1)/ Long-term debt due within 1 year includes $605.8 of commercial paper that
+      has been classified as long-term debt as of December 31, 2001, as the
+      Company has the intent and ability to refinance such obligations on a
+      long-term basis.
+
+   The Company does not have any off-balance sheet financing or unconsolidated
+special purpose entities. The Company's treasury and risk management policies
+prohibit the use of leveraged derivatives or derivatives for trading purposes.
+The valuation of financial instruments that are marked to market are based upon
+independent third-party sources including quoted market prices.
+
+   The Company is a party to various superfund and other environmental matters
+and is contingently liable with respect to lawsuits, taxes and other matters
+arising out of the normal course of business as more fully discussed in Note 14
+to the Consolidated Financial Statements. Management proactively reviews and
+manages its exposure to, and the impact of, environmental matters. While it is
+possible that the Company's cash flows and results of operations in a
+particular quarter or year could be affected by the one-time impacts of the
+resolution of
+
+                                      11
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+such contingencies, it is the opinion of management that the ultimate
+disposition of these matters, to the extent not previously provided for, will
+not have a material impact on the Company's financial position or ongoing cash
+flows and results of operations.
+
+Restructuring Reserves
+
+   In December 2000, the Company recorded a charge of $63.9 ($42.5 aftertax)
+associated with the realignment of three manufacturing locations in Latin
+America and the exiting of our business in Nigeria. The charge recorded
+included $14.2 for termination costs and $49.7 for exiting of manufacturing
+operations. The restructuring was completed in 2001 with a final payment of
+$7.2 representing termination costs for 979 employees.
+
+Managing Foreign Currency, Interest Rate and Commodity Price Exposure
+
+   The Company is exposed to market risk from foreign currency exchange rates,
+interest rates and commodity price fluctuations. The Company manages the
+volatility relating to these exposures on a consolidated basis by utilizing a
+number of techniques, including working capital management, selective
+borrowings in local currencies and entering into certain derivative instrument
+transactions in accordance with the Company's treasury and risk management
+policies.
+
+   The Company operates in over 200 countries and territories and is exposed to
+currency fluctuation related to manufacturing and selling its products in
+currencies other than the U.S. dollar. The major foreign currency exposures
+involve the markets in the European Union, Mexico and Brazil, although all
+regions of the world are subject to foreign currency changes versus the U.S.
+dollar. The Company actively monitors its foreign currency exposures in these
+markets and has been able to substantially offset the impact on earnings of
+foreign currency rate movements through a combination of cost-containment
+measures, foreign currency hedging activities and selling price increases. The
+Company primarily utilizes forward exchange and currency swap contracts to
+hedge portions of its exposures relating to foreign currency purchases and
+assets and liabilities created in the normal course of business. From time to
+time, the Company hedges certain of its forecasted foreign currency purchases
+using foreign currency forward contracts with durations no greater than 18
+months.
+
+   The Company utilizes interest rate swaps and debt issuances to manage its
+targeted mix of fixed and floating rate debt and to minimize significant
+fluctuations in earnings and cash flows that may result from interest rate
+volatility.
+
+   The Company is exposed to price volatility related to raw materials used in
+production. The Company uses futures and option contracts on a limited basis to
+manage volatility related to anticipated raw material inventory purchases. The
+results of the Company's commodity hedging activity is not material.
+
+   The Company is exposed to credit loss in the event of nonperformance by
+counterparties to the financial instrument contracts held by the Company;
+however, nonperformance by these counterparties is considered remote as it is
+the Company's policy to contract with diversified counterparties that have a
+long-term debt rating of A or higher. In addition, if all these counterparties
+did not perform, the Company's risk of credit loss would not be material.
+
+Value at Risk
+
+   The Company's risk management procedures include the monitoring of interest
+rate and foreign exchange exposures and the Company's offsetting hedge
+positions utilizing statistical analyses of cash flows, market value,
+sensitivity analysis and value-at-risk estimations. However, the use of these
+techniques to quantify the market risk of such instruments should not be
+construed as an endorsement of their accuracy or the accuracy of the related
+assumptions. The Company utilizes a Value-at-Risk (VAR) model and an
+Earnings-at-Risk (EAR) model that are intended to measure the maximum potential
+loss in its interest rate and foreign exchange financial instruments assuming
+adverse market conditions occur, given a 95% confidence level. The models
+utilize a variance/covariance modeling technique. Historical interest rates and
+foreign exchange rates from the preceding year are used to estimate the
+volatility and correlation of future rates.
+
+                                      12
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+
+   The estimated maximum potential one-day loss in fair value of interest rate
+or foreign exchange rate instruments, calculated using the VAR model, is not
+material to the consolidated financial position, results of operations or cash
+flows of the Company. The estimated maximum yearly loss in earnings due to
+interest rate or foreign exchange rate instruments, calculated utilizing the
+EAR model, is not material to the Company's results of operations. Actual
+results in the future may differ materially from these projected results due to
+actual developments in the global financial markets.
+
+   For information regarding the Company's accounting policies for financial
+instruments and a description of financial instrument activities, refer to Note
+2 and Note 11 to the Consolidated Financial Statements.
+
+Accounting Changes
+
+   The Financial Accounting Standards Board's (FASB) Emerging Issues Task Force
+(EITF) recently reached consensus on topics relating to the classification of
+various types of sales incentives and promotional expenses. The Company will
+adopt the new accounting requirements effective January 1, 2002. The impact of
+the new accounting will result in the reclassification of certain sales
+incentives and promotional expenses from selling, general and administrative
+expenses to either a reduction of net sales or an increase of cost of sales,
+but will have no impact on the Company's financial position or net income.
+Based on historical information, annual net sales as currently reported for
+2001 and 2000 will be reduced by approximately 4% with a corresponding
+reduction in selling, general and administrative expenses. The impact on annual
+cost of sales as currently reported is not material. In our 2002 Consolidated
+Financial Statements, all comparative periods will be reclassified to conform
+to the new requirements.
+
+   In July 2001, the FASB issued Statement of Financial Accounting Standards
+(SFAS) No. 141, "Business Combinations" and SFAS No. 142, "Goodwill and Other
+Intangible Assets." In addition to requiring the use of the purchase method for
+all future business combinations, SFAS 141 broadens the criteria for recording
+intangible assets separate from goodwill. SFAS 142 addresses accounting and
+reporting standards for acquired goodwill and other intangible assets. Under
+the new standards, goodwill and indefinite life intangible assets, such as the
+Company's global brands, are no longer amortized but will be subject to annual
+impairment tests. Finite life intangible assets such as non-compete agreements
+will continue to be amortized over their useful lives.
+
+   The Company will adopt these statements effective January 1, 2002. As a
+result, the Company will cease amortization of goodwill and indefinite life
+intangible assets, which is expected to increase income before income taxes by
+approximately $50.0 and net income by approximately $40.0. Annual amortization
+expense related to goodwill and other intangible assets was $68.0, $72.1 and
+$75.6 for the years ended December 31, 2001, 2000 and 1999, respectively.
+During 2002, the Company will perform the required transitional impairment
+tests of goodwill and indefinite life intangible assets. It is management's
+preliminary assessment that a transitional impairment charge, if any, will not
+be material.
+
+Accounting Policies and Use of Estimates
+
+   The preparation of financial statements in accordance with accounting
+principles generally accepted in the United States requires management to use
+judgment and make estimates. The level of uncertainty in estimates and
+assumptions increases with the length of time until the underlying transactions
+are completed. As such, the most significant uncertainty in the Company's
+assumptions and estimates involved in preparing the financial statements
+include pension and health care cost assumptions and legal and tax contingency
+reserves. Actual results could ultimately differ from those estimates.
+
+   In certain instances, accounting principles generally accepted in the United
+States allow for the selection of alternative accounting methods. The Company's
+more significant policies where alternative methods are available include the
+accounting for stock options (refer to Note 5 to the Consolidated Financial
+Statements for further information) and inventories (LIFO/FIFO). For more
+information on the Company's accounting policies, refer to the Notes to the
+Consolidated Financial Statements.
+
+                                      13
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+
+Outlook
+
+   Looking forward into 2002, the Company is well positioned for continued
+growth in most of its markets. However, the Company operates in a highly
+competitive global marketplace that is experiencing increased trade
+concentration. In addition, movements in foreign currency exchange rates can
+impact future operating results as measured in U.S. dollars. In particular,
+economic uncertainty in some countries in Latin America and changes in the
+value of the euro may impact the overall results of Latin America and Europe.
+
+   The Company expects the continued success of Colgate toothpaste, using
+patented and proprietary technology, to bolster worldwide Oral Care leadership
+and expects new products in Oral Care and other categories to add potential for
+further growth. Overall, subject to global economic conditions, the Company
+does not expect the 2002 market conditions to be materially different from
+those experienced in 2001 and the Company expects its positive momentum to
+continue. Historically, the consumer products industry has been less
+susceptible to changes in economic growth than many other industries, and
+therefore the Company constantly evaluates projects that will focus operations
+on opportunities for enhanced growth potential. Over the long term, Colgate's
+continued focus on its consumer products business and the strength of its
+global brand names, its broad international presence in both developed and
+developing markets, and its strong capital base all position the Company to
+take advantage of growth opportunities and to continue to increase
+profitability and shareholder value.
+
+Cautionary Statement on Forward-Looking Statements
+
+
+   From time to time, the Company may make statements which constitute or
+contain "forward-looking" information as that term is defined in the Private
+Securities Litigation Reform Act of 1995 or by the Securities and Exchange
+Commission in its rules, regulations and releases. Such statements may relate,
+for example, to sales or volume growth, earnings growth, financial goals, cost
+reduction plans and new product introductions among other matters. The Company
+cautions investors that any such forward-looking statements made by the Company
+are not guarantees of future performance and that actual results may differ
+materially from anticipated results or expectations expressed in the Company's
+forward-looking statements. The following are some of the factors that could
+cause actual results to differ materially from forward-looking statements:
+
+      (1) Global Economic Conditions.  The Company operates on a global basis,
+   with approximately 70% of its net sales coming from operations outside the
+   U.S. The Company is subject to the full range of economic risks, including
+   those associated with international operations, such as economic recession,
+   inflation, access to capital markets and related costs, movements in
+   currency exchange rates and interest rates, trade restrictions, tax law
+   changes, political and legal instability, the imposition of trade
+   restrictions and similar factors beyond the control of the Company.
+
+      (2) Competition.  The Company faces vigorous competition from
+   multinational consumer product companies throughout the world with the same
+   or greater resources than the Company. Such competition is based on pricing
+   of products, promotional activities, advertising, new product introductions,
+   electronic commerce initiatives and other activities of competitors, the
+   timing and scale of which cannot be foreseen by the Company. The Company's
+   ability to compete also depends on the strength of its brands, its ability
+   to attract and retain key talent and its ability to protect its patent,
+   trademark and trade dress rights and to defend against related challenges
+   brought by competitors.
+
+      (3) Retail Trade.  The Company can be negatively affected by changes in
+   the policies of its retail trade customers, such as inventory de-stocking,
+   limitations on access to shelf space, electronic data transmission
+   requirements and other conditions. With the growing trend towards retail
+   trade consolidation, especially in developed markets such as the United
+   States and Europe, the Company is increasingly dependent on key retailers,
+   and these retailers have increasingly greater bargaining strength. In
+   addition, private label brands sold by retail trade chains are becoming a
+   source of competition for the Company.
+
+                                      14
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+
+      (4) Products.  The Company's growth depends on the successful development
+   and introduction of new products and line extensions, which face the
+   uncertainty of retail and consumer acceptance and reaction from competitors,
+   as well as the continued success of existing products. In addition, the
+   Company's ability to create new products and line extensions and to sustain
+   existing products is affected by its ability to develop technological
+   innovations, to receive and maintain necessary patent and trademark
+   protection and regulatory approvals and to anticipate successfully consumer
+   needs and preferences.
+
+      (5) Cost Pressures.  The Company's ability to manage its cost structure
+   can be adversely affected by movements in raw material prices and by
+   unanticipated delays or difficulties in achieving cost efficiencies in
+   manufacturing and distribution. In addition, the Company's move to global
+   suppliers, to achieve cost reductions and simplify its business, has
+   resulted in an increasing dependence on key suppliers.
+
+      (6) Manufacturing.  As a company engaged in manufacturing on a global
+   scale, the Company is subject to the risks inherent in such activities,
+   including industrial accidents, environmental events, strikes and other
+   labor disputes, loss or impairment of key manufacturing sites, product
+   quality and safety issues, natural disasters and other external factors over
+   which the Company has no control.
+
+ITEM 7A.  QUALITATIVE AND QUANTITATIVE DISCLOSURES ABOUT MARKET RISK
+
+   See "Managing Foreign Currency, Interest Rate and Commodity Price Exposure"
+which is located on page 12 of this report.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+   See the "Index to Financial Statements" which is located on page 19 of this
+report.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+   None.
+
+                                   PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+   Information regarding directors and executive officers of the registrant set
+forth in the Proxy Statement for the 2002 Annual Meeting is incorporated herein
+by reference, as is the text in Part I of this report under the caption
+"Executive Officers of the Registrant".
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+   The information set forth in the Proxy Statement for the 2002 Annual Meeting
+is incorporated herein by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+   (a) Security ownership of management set forth in the Proxy Statement for
+the 2002 Annual Meeting is incorporated herein by reference.
+
+   (b) There are no arrangements known to the registrant that may at a
+subsequent date result in a change in control of the registrant.
+
+                                      15
+
+<PAGE>
+
+(Dollars in Millions Except Per Share Amounts)
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+   The information set forth in the Proxy Statement for the 2002 Annual Meeting
+is incorporated herein by reference.
+
+                                    PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a) Financial Statements and Financial Statement Schedules
+
+   See the "Index to Financial Statements" which is located on page 19 of this
+report.
+
+(b) Exhibits. See the exhibit index which begins on page 46 of this report.
+
+(c) Reports on Form 8-K
+
+   None.
+
+                                      16
+
+<PAGE>
+
+                                  SIGNATURES
+
+   Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                          COLGATE-PALMOLIVE COMPANY
+                                               (Registrant)
+
+                                          By:          /s/  REUBEN MARK
+                                             ----------------------------------
+                                                      Reuben Mark
+                                                 Chairman of the Board
+                                              and Chief Executive Officer
+
+Date: March 20, 2002
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below on March 20, 2002 by the following persons on
+behalf of the registrant and in the capacities indicated.
+
+(a) Principal Executive Officer
+
+                /s/  REUBEN MARK
+--------------------------------------
+                   Reuben Mark
+              Chairman of the Board
+           and Chief Executive Officer
+
+(b) Principal Financial Officer
+
+             /s/  STEPHEN C. PATRICK
+--------------------------------------
+               Stephen C. Patrick
+             Chief Financial Officer
+(c) Principal Accounting Officer
+
+              /s/  DENNIS J. HICKEY
+--------------------------------------
+                Dennis J. Hickey
+               Vice President and
+              Corporate Controller
+
+(d) Directors:
+
+Jill K. Conway, Ronald E. Ferguson,
+Carlos M. Gutierrez, Ellen M. Hancock,
+David W. Johnson, Richard J. Kogan,
+Delano E. Lewis, Reuben Mark,
+Howard B. Wentz, Jr.
+
+              /s/  ANDREW D. HENDRY
+--------------------------------------
+                Andrew D. Hendry
+               as Attorney-in-Fact
+
+                                      17
+
+<PAGE>
+
+                                 United States
+                      Securities and Exchange Commission
+                            Washington, D.C. 20549
+
+
+                                   FORM 10-K
+
+                             FINANCIAL STATEMENTS
+                     For The Year Ended December 31, 2001
+
+                           COLGATE-PALMOLIVE COMPANY
+
+                           NEW YORK, NEW YORK 10022
+
+                                      18
+
+<PAGE>
+
+                         Index to Financial Statements
+
+<TABLE>
+<CAPTION>
+                                                                       Page
+                                                                       ----
+    <S>                                                                <C>
+    Financial Statements
+
+    Consolidated Statements of Income for the years
+      ended December 31, 2001, 2000, and 1999.........................  20
+
+    Consolidated Balance Sheets at December 31, 2001 and 2000.........  21
+
+    Consolidated Statements of Retained Earnings, Comprehensive Income
+      and Changes in Capital Accounts for the years ended
+      December 31, 2001, 2000 and 1999................................  22
+
+    Consolidated Statements of Cash Flows for the years
+      ended December 31, 2001, 2000 and 1999..........................  23
+
+    Notes to Consolidated Financial Statements........................  24
+
+    Market and Dividend Information...................................  40
+
+    Financial Statement Schedules for the years ended
+      December 31, 2001, 2000 and 1999:
+
+    Schedule II--Valuation and Qualifying Accounts....................  41
+
+    Report of Independent Public Accountants..........................  44
+
+    Selected Financial Data
+
+    Historical Financial Summary......................................  45
+</TABLE>
+
+   All other financial statements and schedules not listed have been omitted
+since the required information is included in the financial statements or the
+notes thereto or is not applicable or required.
+
+                                      19
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+                       Consolidated Statements of Income
+
+                (Dollars in Millions Except Per Share Amounts)
+
+<TABLE>
+<CAPTION>
+                                                   2001     2000     1999
+                                                 -------- -------- --------
+    <S>                                          <C>      <C>      <C>
+    Net sales................................... $9,427.8 $9,357.9 $9,118.2
+    Cost of sales...............................  4,236.9  4,265.5  4,224.0
+                                                 -------- -------- --------
+       Gross profit.............................  5,190.9  5,092.4  4,894.2
+    Selling, general and administrative expenses  3,261.6  3,299.6  3,254.4
+    Other expense, net..........................     94.5     52.3     73.6
+    Interest expense, net.......................    166.1    173.3    171.6
+                                                 -------- -------- --------
+    Income before income taxes..................  1,668.7  1,567.2  1,394.6
+    Provision for income taxes..................    522.1    503.4    457.3
+                                                 -------- -------- --------
+       Net income............................... $1,146.6 $1,063.8 $  937.3
+                                                 ======== ======== ========
+    Earnings per common share, basic............ $   2.02 $   1.81 $   1.57
+                                                 ======== ======== ========
+    Earnings per common share, diluted.......... $   1.89 $   1.70 $   1.47
+                                                 ======== ======== ========
+</TABLE>
+
+
+                See Notes to Consolidated Financial Statements.
+
+                                      20
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+                          Consolidated Balance Sheets
+
+                (Dollars in Millions Except Per Share Amounts)
+
+<TABLE>
+<CAPTION>
+                                                                               2001       2000
+                                                                             ---------  ---------
+<S>                                                                          <C>        <C>
+Assets
+Current Assets
+   Cash and cash equivalents................................................ $   172.7  $   206.6
+   Receivables (less allowances of $45.6 and $39.8, respectively)...........   1,124.9    1,195.4
+   Inventories..............................................................     677.0      686.6
+   Other current assets.....................................................     228.8      258.6
+                                                                             ---------  ---------
+       Total current assets.................................................   2,203.4    2,347.2
+ Property, plant and equipment, net.........................................   2,513.5    2,528.3
+ Goodwill and other intangibles, net........................................   1,904.0    2,096.4
+ Other assets...............................................................     363.9      280.4
+                                                                             ---------  ---------
+                                                                             $ 6,984.8  $ 7,252.3
+                                                                             =========  =========
+Liabilities and Shareholders' Equity
+Current Liabilities
+   Notes and loans payable.................................................. $   101.6  $   121.1
+   Current portion of long-term debt........................................     325.5      320.2
+   Accounts payable.........................................................     678.1      738.9
+   Accrued income taxes.....................................................     195.0      163.7
+   Other accruals...........................................................     823.3      900.2
+                                                                             ---------  ---------
+       Total current liabilities............................................   2,123.5    2,244.1
+
+Long-term debt..............................................................   2,812.0    2,536.9
+Deferred income taxes.......................................................     480.6      447.3
+Other liabilities...........................................................     722.3      555.9
+
+Shareholders' Equity
+   Preferred stock..........................................................     341.3      354.1
+   Common stock, $1 par value (1,000,000,000 shares authorized, 732,853,180
+     shares issued).........................................................     732.9      732.9
+   Additional paid-in capital...............................................   1,168.7    1,144.9
+   Retained earnings........................................................   5,643.6    4,893.7
+   Accumulated other comprehensive income...................................  (1,491.2)  (1,269.7)
+                                                                             ---------  ---------
+                                                                               6,395.3    5,855.9
+   Unearned compensation....................................................    (345.4)    (344.4)
+   Treasury stock, at cost..................................................  (5,203.5)  (4,043.4)
+                                                                             ---------  ---------
+       Total shareholders' equity...........................................     846.4    1,468.1
+                                                                             ---------  ---------
+                                                                             $ 6,984.8  $ 7,252.3
+                                                                             =========  =========
+</TABLE>
+
+                See Notes to Consolidated Financial Statements.
+
+                                      21
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+Consolidated Statements of Retained Earnings, Comprehensive Income and Changes
+                              in Capital Accounts
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+<TABLE>
+<CAPTION>
+                                   Common Shares    Additional    Treasury Shares                Accumulated   Compre-
+                                -------------------  Paid-in   ---------------------  Retained  Other Compre-  hensive
+                                  Shares     Amount  Capital     Shares      Amount   Earnings  hensive Income Income
+                                -----------  ------ ---------- -----------  --------  --------  -------------- --------
+<S>                             <C>          <C>    <C>        <C>          <C>       <C>       <C>            <C>
+Balance, January 1, 1999....... 585,419,480  $732.9  $  824.6  147,433,700  $2,333.8  $3,641.0    $  (799.8)
+Net income.....................                                                          937.3                 $  937.3
+Other comprehensive income:
+  Cumulative translation
+   adjustment..................                                                                      (336.4)     (336.4)
+                                                                                                               --------
+Total comprehensive income.....                                                                                $  600.9
+                                                                                                               ========
+Dividends declared:
+  Series B Convertible
+   Preference Stock, net of
+   income taxes................                                                          (20.5)
+  Preferred stock..............                                                            (.5)
+  Common stock.................                                                         (345.0)
+Shares issued for stock options   6,894,907             128.0   (6,894,907)    132.5
+Treasury stock acquired........ (12,849,744)                    12,849,744     624.4
+Other..........................    (601,597)            110.6      611,087     (34.3)
+                                -----------  ------  --------  -----------  --------  --------    ---------
+Balance, December 31, 1999..... 578,863,046  $732.9  $1,063.2  153,999,624  $3,056.4  $4,212.3    $(1,136.2)
+                                -----------  ------  --------  -----------  --------  --------    ---------
+Net income.....................                                                        1,063.8                 $1,063.8
+Other comprehensive income:....
+  Cumulative translation
+   adjustment..................                                                                      (133.5)     (133.5)
+                                                                                                               --------
+Total comprehensive income.....                                                                                $  930.3
+                                                                                                               ========
+Dividends declared:
+  Series B Convertible
+   Preference Stock, net of
+   income taxes................                                                          (20.3)
+  Preferred stock..............                                                            (.4)
+  Common stock.................                                                         (361.7)
+Shares issued for stock options   4,796,186              96.7   (4,796,186)     54.3
+Treasury stock acquired........ (19,099,681)                    19,099,681   1,040.6
+Other..........................   2,096,323             (15.0)  (2,084,163)   (107.9)
+                                -----------  ------  --------  -----------  --------  --------    ---------
+Balance, December 31, 2000..... 566,655,874  $732.9  $1,144.9  166,218,956  $4,043.4  $4,893.7    $(1,269.7)
+                                -----------  ------  --------  -----------  --------  --------    ---------
+Net income.....................                                                        1,146.6                 $1,146.6
+Other comprehensive income:
+Cumulative translation
+ adjustment....................                                                                      (198.5)     (198.5)
+Other..........................                                                                       (23.0)      (23.0)
+                                                                                                               --------
+Total comprehensive income.....                                                                                $  925.1
+                                                                                                               ========
+Dividends declared:
+  Series B Convertible
+   Preference Stock, net of
+   income taxes................                                                          (21.3)
+  Preferred stock..............                                                            (.4)
+  Common stock.................                                                         (375.0)
+Shares issued for stock options   2,705,887              62.4   (2,705,887)     20.5
+Treasury stock acquired........ (21,662,879)                    21,662,879   1,230.2
+Other..........................   3,023,451             (38.6)  (3,023,261)    (90.6)
+                                -----------  ------  --------  -----------  --------  --------    ---------
+Balance, December 31, 2001..... 550,722,333  $732.9  $1,168.7  182,152,687  $5,203.5  $5,643.6    $(1,491.2)
+                                ===========  ======  ========  ===========  ========  ========    =========
+</TABLE>
+
+                See Notes to Consolidated Financial Statements.
+
+                                      22
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+                     Consolidated Statements of Cash Flows
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+
+<TABLE>
+<CAPTION>
+                                                               2001       2000       1999
+                                                             ---------  ---------  --------
+<S>                                                          <C>        <C>        <C>
+Operating Activities
+   Net income............................................... $ 1,146.6  $ 1,063.8  $  937.3
+   Adjustments to reconcile net income to net
+     cash provided by operations:...........................
+       Restructured operations..............................      (8.9)     (14.9)    (35.6)
+       Depreciation and amortization........................     336.2      337.8     340.2
+       Income taxes and other, net..........................     168.6       69.7     122.3
+       Cash effects of changes in:
+          Receivables.......................................      19.4      (91.9)    (81.3)
+          Inventories.......................................     (18.7)      59.0     (82.8)
+          Payables and accruals.............................     (43.6)     112.7      92.6
+                                                             ---------  ---------  --------
+          Net cash provided by operations...................   1,599.6    1,536.2   1,292.7
+                                                             ---------  ---------  --------
+Investing Activities
+   Capital expenditures.....................................    (340.2)    (366.6)   (372.8)
+   Payment for acquisitions, net of cash acquired...........     (10.2)     (64.9)    (44.1)
+   Sale of non-core product lines...........................      12.5      102.5      89.9
+   Sale of marketable securities and investments............       9.3      137.4      22.7
+   Other....................................................     (90.6)     (17.0)    (27.2)
+                                                             ---------  ---------  --------
+       Net cash used for investing activities...............    (419.2)    (208.6)   (331.5)
+                                                             ---------  ---------  --------
+Financing Activities
+   Principal payments on debt...............................    (595.9)    (739.4)   (491.0)
+   Proceeds from issuance of debt...........................     887.9      925.4     555.5
+   Payments from (to) outside investors.....................      89.7     (113.9)       --
+   Dividends paid...........................................    (396.7)    (382.4)   (366.0)
+   Purchase of common stock.................................  (1,230.2)  (1,040.6)   (624.4)
+   Other....................................................      34.5       34.9     (14.2)
+                                                             ---------  ---------  --------
+       Net cash used for financing activities...............  (1,210.7)  (1,316.0)   (940.1)
+                                                             ---------  ---------  --------
+Effect of exchange rate changes on cash and cash equivalents      (3.6)      (4.6)     (3.2)
+                                                             ---------  ---------  --------
+Net (decrease) increase in cash and cash equivalents........     (33.9)       7.0      17.9
+Cash and cash equivalents at beginning of year..............     206.6      199.6     181.7
+                                                             ---------  ---------  --------
+Cash and cash equivalents at end of year.................... $   172.7  $   206.6  $  199.6
+                                                             =========  =========  ========
+Supplemental Cash Flow Information
+
+Income taxes paid........................................... $   346.8  $   306.3  $  292.4
+Interest paid...............................................     221.5      203.0     210.9
+
+Principal payments on ESOP debt, guaranteed by the Company..      12.9        8.8       6.7
+</TABLE>
+
+                See Notes to Consolidated Financial Statements.
+
+                                      23
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+                  Notes to Consolidated Financial Statements
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+1.   Nature of Operations
+
+   The Company manufactures and markets a wide variety of products in the U.S.
+and around the world in two distinct business segments: Oral, Personal and
+Household Care, and Pet Nutrition. Oral, Personal and Household Care products
+include toothpaste, oral rinses and toothbrushes, bar and liquid hand soaps,
+shower gels, shampoos, conditioners, deodorants and antiperspirants, shave
+products, laundry and dishwashing detergents, fabric conditioners, cleansers
+and cleaners, bleaches and other similar items. These products are sold
+primarily to wholesale and retail distributors worldwide. Pet Nutrition
+products include pet food products manufactured and marketed by Hill's Pet
+Nutrition. The principal customers for Pet Nutrition products are veterinarians
+and specialty pet retailers. Principal global trademarks include Colgate,
+Palmolive, Kolynos, Mennen, Protex, Ajax, Soupline, Suavitel, Fab, Science Diet
+and Prescription Diet in addition to various regional trademarks.
+
+   The Company's principal classes of products accounted for the following
+percentages of worldwide sales for the past three years:
+
+<TABLE>
+<CAPTION>
+                                            2001 2000 1999
+                                            ---- ---- ----
+                     <S>                    <C>  <C>  <C>
+                     Oral Care.............  34%  34%  32%
+                     Personal Care.........  24   24   24
+                     Household Surface Care  16   16   16
+                     Fabric Care...........  13   14   14
+                     Pet Nutrition.........  13   12   12
+</TABLE>
+
+2.  Summary of Significant Accounting Policies
+
+Principles of Consolidation
+
+   The Consolidated Financial Statements include the accounts of
+Colgate-Palmolive Company and its majority-owned subsidiaries. Intercompany
+transactions and balances have been eliminated. Investments in companies in
+which the Company's interest is between 20% and 50% are accounted for using the
+equity method. The Company's share of the net income/(loss) from such
+investments is recorded in Other expense, net, in the Consolidated Statements
+of Income.
+
+Use of Estimates
+
+   The preparation of financial statements in accordance with accounting
+principles generally accepted in the United States requires management to use
+judgment and make estimates that affect the reported amounts of assets and
+liabilities and disclosure of contingent gains and losses at the date of the
+financial statements and the reported amounts of revenues and expenses during
+the reporting period. The level of uncertainty in estimates and assumptions
+increases with the length of time until the underlying transactions are
+completed. As such, the most significant uncertainty in the Company's
+assumptions and estimates involved in preparing the financial statements
+include pension and health care cost assumptions and legal and tax contingency
+reserves. Actual results could ultimately differ from those estimates.
+
+Accounting Changes
+
+   The Financial Accounting Standards Board's (FASB) Emerging Issues Task Force
+(EITF) recently reached consensus on topics relating to the classification of
+various types of sales incentives and promotional expenses. The Company will
+adopt the new accounting requirements effective January 1, 2002. The impact of
+the new accounting will result in the reclassification of certain sales
+incentives and promotional expenses from selling, general and administrative
+expenses to either a reduction of net sales or an increase of cost of sales,
+but will have no impact on the Company's financial position or net income.
+Based on historical information, annual net sales as currently reported for
+2001 and 2000 will be reduced by approximately 4% with a corresponding
+reduction in selling, general and administrative expenses. The impact on annual
+cost of sales as currently reported is not material. In our 2002 Consolidated
+Financial Statements, all comparative periods will be reclassified to conform
+to the new requirements.
+
+                                      24
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+   In July 2001, the FASB issued Statement of Financial Accounting Standards
+(SFAS) No. 141, "Business Combinations" and SFAS No. 142, "Goodwill and Other
+Intangible Assets." In addition to requiring the use of the purchase method for
+all future business combinations, SFAS 141 broadens the criteria for recording
+intangible assets separate from goodwill. SFAS 142 addresses accounting and
+reporting standards for acquired goodwill and other intangible assets. Under
+the new standards, goodwill and indefinite life intangible assets, such as the
+Company's global brands, will no longer be amortized but will be subject to
+annual impairment tests. Finite life intangible assets such as non-compete
+agreements will continue to be amortized over their useful lives.
+
+   The Company will adopt these statements effective January 1, 2002. As a
+result, the Company will cease amortization of goodwill and indefinite life
+intangible assets, which is expected to increase income before income taxes by
+approximately $50.0 and net income by approximately $40.0. Annual amortization
+expense related to goodwill and other intangible assets was $68.0, $72.1 and
+$75.6 for the years ended December 31, 2001, 2000 and 1999, respectively.
+During 2002, the Company will perform the required transitional impairment
+tests of goodwill and indefinite life intangible assets. It is management's
+preliminary assessment that a transitional impairment charge, if any, will not
+be material.
+
+Cash and Cash Equivalents
+
+   The Company considers all highly liquid investments with original maturities
+of three months or less to be cash equivalents.
+
+Inventories
+
+   Inventories are stated at the lower of cost or market. The first-in,
+first-out (FIFO) method is used to determine the cost of most inventories. The
+cost of the remaining inventories is determined using the last-in, first-out
+(LIFO) method.
+
+Property, Plant and Equipment
+
+   Land, buildings, and machinery and equipment are stated at cost.
+Depreciation is provided, primarily using the straight-line method, over
+estimated useful lives ranging from 3 to 40 years.
+
+Goodwill and Other Intangibles
+
+   Under current accounting guidance, goodwill is amortized on the
+straight-line method, generally over a period of 40 years. Other intangible
+assets, principally consisting of brands, trademarks and non-compete
+agreements, are amortized on the straight-line method over periods ranging from
+5 to 40 years depending on their useful lives.
+
+   The recoverability of the carrying values of intangible assets is evaluated
+periodically based on a review of forecasted operating cash flows and the
+profitability of the related business. For the three-year period ended December
+31, 2001, there were no material adjustments to the carrying values of
+intangible assets resulting from these evaluations.
+
+Revenue Recognition
+
+   Sales are recorded at the time products are shipped to trade customers and
+when risk of ownership transfers. Net sales reflect units shipped at selling
+list prices reduced by estimated returns, promotion allowances and other
+discounts.
+
+                                      25
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+Shipping and Handling Costs
+
+   Shipping and handling costs are classified as selling, general and
+administrative expenses and were $631.0, $619.9 and $590.0 for the years ended
+December 31, 2001, 2000 and 1999, respectively.
+
+Advertising
+
+   Advertising costs are expensed in the year incurred.
+
+Income Taxes
+
+   Deferred taxes are recognized for the expected future tax consequences of
+temporary differences between the amounts carried for financial reporting and
+tax purposes. Provision is made currently for taxes payable on remittances of
+overseas earnings; no provision is made for taxes on overseas retained earnings
+that are deemed to be permanently reinvested.
+
+Translation of Overseas Currencies
+
+   The assets and liabilities of subsidiaries, other than those operating in
+highly inflationary environments, are translated into U.S. dollars at year-end
+exchange rates, with resulting translation gains and losses accumulated in a
+separate component of shareholders' equity. Income and expense items are
+converted into U.S. dollars at average rates of exchange prevailing during the
+year.
+
+   For subsidiaries operating in highly inflationary environments, inventories,
+goodwill and property, plant and equipment are translated at the rate of
+exchange on the date the assets were acquired, while other assets and
+liabilities are translated at year-end exchange rates. Translation adjustments
+for these operations are included in net income.
+
+Financial Instruments
+
+   Effective January 1, 2001, the Company adopted Statement of Financial
+Accounting Standards No. 133 (SFAS 133), "Accounting for Derivative Instruments
+and Hedging Activities." SFAS 133, as amended, establishes accounting and
+reporting standards requiring that every derivative instrument be recorded in
+the balance sheet as either an asset or liability measured at its fair value.
+The cumulative effect of adoption of SFAS 133 did not result in a material
+impact on the Company's financial position, results of operations or cash flows.
+
+   It is the Company's policy to enter into derivative instruments with terms
+that match the underlying exposure being hedged. As such, the Company's
+derivative instruments are considered highly effective and the net gain or loss
+from hedge ineffectiveness was not material.
+
+   The Company's derivative instruments that qualify for hedge accounting are
+primarily designated as either fair value hedges or cash flow hedges. For fair
+value hedges, changes in fair value of the derivative as well as the offsetting
+changes in fair value of the hedged item are recognized in earnings each
+period. For cash flow hedges, changes in fair value of the derivative are
+recorded in other comprehensive income and are recognized in earnings when the
+offsetting effect of the hedged item is also recognized in earnings.
+
+   The Company may also enter into certain foreign currency derivative
+instruments that economically hedge certain of its risks but do not qualify for
+hedge accounting. Changes in fair value of these derivative instruments are
+obtained from quoted market prices and are recognized in earnings each period.
+
+                                      26
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+Segment Information
+
+   The Company operates in two product segments: Oral, Personal and Household
+Care, and Pet Nutrition. The operations of the Oral, Personal and Household
+Care segment are managed geographically in four reportable operating segments:
+North America, Latin America, Europe and Asia/Africa.
+
+   Management measures segment profit as operating income, which is defined as
+income before interest expense and income taxes. The accounting policies of the
+operating segments are the same as those described in the summary of
+significant accounting policies. Corporate operations include research and
+development costs, unallocated overhead costs, and gains and losses on sales of
+non-strategic brands and assets. Corporate assets include primarily benefit
+plan assets.
+
+   The financial and descriptive information on the Company's geographic area
+and industry segment data, appearing in the tables contained in management's
+discussion of this report, is an integral part of these financial statements.
+
+Reclassifications
+
+   Certain prior year balances have been reclassified to conform with current
+year presentation.
+
+3.  Acquisitions and Divestitures
+
+   During 2001, the Company did not make any significant acquisitions. During
+2000 and 1999, the Company made several acquisitions totaling $64.9 and $46.4,
+respectively. Individually, none of these acquisitions was significant.
+
+   The acquisitions were accounted for as purchases, and accordingly, the
+purchase prices were allocated to the net tangible and intangible assets
+acquired based on estimated fair values at the dates the acquisitions were
+consummated. The results of operations of the acquired businesses have been
+included in the Consolidated Financial Statements since the respective
+acquisition dates. The inclusion of pro forma financial data for all
+acquisitions would not have materially affected the financial information
+included herein.
+
+   The aggregate sale price of all 2001, 2000 and 1999 divestitures was $12.5,
+$102.5 and $94.7, respectively. These divestitures included certain Central
+American detergent product lines in 2001, the Mexico Viva detergent brand in
+2000 and the U.S. Baby Magic brand in 1999.
+
+4.  Long-Term Debt and Credit Facilities
+
+   Long-term debt consists of the following at December 31:
+
+<TABLE>
+<CAPTION>
+                                         Weighted
+                                         Average
+                                         Interest
+                                           Rate   Maturities   2001     2000
+                                         -------- ---------- -------- --------
+ <S>                                     <C>      <C>        <C>      <C>
+ Notes..................................   5.9%   2002-2041  $1,724.7 $1,458.4
+ Commercial paper.......................   2.1         2002     605.8    436.1
+ ESOP notes, guaranteed by the Company..   8.7    2002-2009     345.2    358.1
+ Payable to banks.......................   4.7    2002-2007     451.5    603.5
+ Capitalized leases.....................                         10.3      1.0
+                                                             -------- --------
+                                                              3,137.5  2,857.1
+ Less: current portion of long-term debt                        325.5    320.2
+                                                             -------- --------
+                                                             $2,812.0 $2,536.9
+                                                             ======== ========
+</TABLE>
+
+                                      27
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+   Commercial paper is classified as long-term debt as it is the Company's
+intent and ability to refinance such obligations on a long-term basis.
+Scheduled maturities of debt outstanding at December 31, 2001, excluding
+commercial paper reclassified, are as follows: 2002--$325.5; 2003--$675.2;
+2004--$244.7; 2005--$77.6; 2006--$260.6 and $948.1 thereafter. The Company has
+entered into interest rate swap agreements and foreign exchange contracts
+related to certain of these debt instruments (see Note 11).
+
+   At December 31, 2001, the Company had unused credit facilities amounting to
+$1,370.5. Commitment fees related to credit facilities are not material. The
+weighted average interest rate on short-term borrowings, excluding amounts
+reclassified, as of December 31, 2001 and 2000, was 5.6% and 7.6%, respectively.
+
+5.  Capital Stock and Stock Compensation Plans
+
+Preferred Stock
+
+   Preferred Stock consists of 250,000 authorized shares without par value. It
+is issuable in series, of which one series of 125,000 shares, designated $4.25
+Preferred Stock, with a stated and redeemable value of $100 per share, has been
+issued. The $4.25 Preferred Stock is redeemable only at the option of the
+Company. At December 31, 2001 and 2000, 103,160 and 103,350 shares of $4.25
+Preferred Stock, respectively, were outstanding.
+
+Preference Stock
+
+   In 1988, the Company authorized the issuance of 50,000,000 shares of
+Preference Stock, without par value. The Series B Convertible Preference Stock,
+which is convertible into eight shares of common stock, ranks junior to all
+series of the Preferred Stock. At December 31, 2001 and 2000, 5,059,086 and
+5,254,847 shares of Series B Convertible Preference Stock, respectively, were
+outstanding and issued to the Company's Employee Stock Ownership Plan.
+
+Shareholder Rights Plan
+
+   Under the Company's Shareholder Rights Plan, each share of the Company's
+common stock carries with it one Preference Share Purchase Right ("Rights").
+The Rights themselves will at no time have voting power or pay dividends. The
+Rights become exercisable only if a person or group acquires 15% or more of the
+Company's common stock or announces a tender offer, the consummation of which
+would result in ownership by a person or group of 15% or more of the common
+stock. When exercisable, each Right entitles a holder to buy one two-hundredth
+of a share of a new series of preference stock at an exercise price of $220.00,
+subject to adjustment.
+
+   If the Company is acquired in a merger or other business combination, each
+Right will entitle a holder to buy, at the Right's then current exercise price,
+a number of the acquiring company's common shares having a market value of
+twice such price. In addition, if a person or group acquires 15% or more of the
+Company's common stock, each Right will entitle its holder (other than such
+person or members of such group) to purchase, at the Right's then current
+exercise price, a number of shares of the Company's common stock having a
+market value of twice the Right's exercise price.
+
+   Further, at any time after a person or group acquires 15% or more (but less
+than 50%) of the Company's common stock, the Board of Directors may, at its
+option, exchange part or all of the Rights (other than Rights held by the
+acquiring person or group) for shares of the Company's common stock on a
+one-for-one basis.
+
+   The Company, at the option of the Board of Directors, may amend the Rights
+or redeem the Rights for $.01 at any time before the acquisition by a person or
+group of beneficial ownership of 15% or more of its common stock. The Board of
+Directors is also authorized to reduce the 15% threshold to not less than 10%.
+Unless redeemed earlier, the Rights will expire on October 31, 2008.
+
+                                      28
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+Stock Repurchases
+
+   During 1998, the Company entered into a series of forward purchase
+agreements on its common stock that expire in 2004. These agreements are
+settled on a net basis in shares of the Company's common stock and do not
+require the Company to settle by purchasing its common stock at market prices.
+To the extent that the market price of the Company's common stock on a
+settlement date is higher/(lower) than the forward purchase price, the
+equivalent value in shares of the net differential is received/(delivered) by
+the Company. As of December 31, 2001, agreements were in place covering
+approximately $387.2 of the Company's common stock (6.7 million shares) that
+had forward prices averaging $58.14 per share. During 2001 and 2000,
+settlements resulted in the Company delivering 1,237,689 and 217,574 shares,
+respectively. During 1999, settlements resulted in the Company receiving
+2,322,701 shares. All of these settlements were recorded as treasury stock
+transactions.
+
+Incentive Stock Plan
+
+   The Company has a plan that provides for grants of restricted stock awards
+for officers and other executives of the Company and its major subsidiaries. A
+committee of non-employee members of the Board of Directors administers the
+plan. The awarded shares vest at the end of the restriction period, generally
+between three and five years. During 2001 and 2000, 511,120 and 667,090 shares,
+respectively, were awarded to employees in accordance with the provisions of
+the plan.
+
+Stock Option Plans
+
+   The Company's Stock Option Plans ("Plans") provide for the issuance of
+non-qualified stock options to officers and key employees. Options are granted
+at prices not less than the fair market value on the date of grant with a term
+of up to ten years and generally vesting over three to five years. As of
+December 31, 2001, 20,382,516 shares of common stock were available for future
+grants.
+
+   The Plans contain a feature that provides for the grant of new options when
+previously owned shares of Company stock are used to exercise existing options.
+The number of new options granted under this feature is equal to the number of
+shares of previously owned Company stock used to exercise the original options
+and to pay the related required U.S. income tax. The new options are granted at
+a price equal to the fair market value on the date of the new grant and have
+the same expiration date as the original options exercised.
+
+   Stock option plan activity is summarized below:
+
+<TABLE>
+<CAPTION>
+                              2001                    2000                    1999
+                     ----------------------- ----------------------- -----------------------
+                                    Weighted                Weighted                Weighted
+                                    Average                 Average                 Average
+                         Shares     Exercise     Shares     Exercise     Shares     Exercise
+                     (in thousands)  Price   (in thousands)  Price   (in thousands)  Price
+                     -------------- -------- -------------- -------- -------------- --------
+<S>                  <C>            <C>      <C>            <C>      <C>            <C>
+Options outstanding,
+  January 1.........     39,143       $41        39,196       $36        42,786       $28
+Granted.............      7,842        57         9,762        53        11,414        53
+Exercised...........     (5,565)       37        (9,361)       32       (14,587)       26
+Canceled or expired.       (487)       56          (454)       40          (417)       49
+                         ------                  ------                 -------
+Options outstanding,
+  December 31.......     40,933        44        39,143        41        39,196        36
+                         ======                  ======                 =======
+Options exercisable,
+  December 31.......     26,549       $39        24,840       $35        23,813       $28
+                         ======                  ======                 =======
+</TABLE>
+
+                                      29
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+   The following table summarizes information relating to currently outstanding
+and exercisable options as of December 31, 2001:
+
+<TABLE>
+<CAPTION>
+                         Weighted Average
+                            Remaining        Options        Weighted       Options        Weighted
+                         Contractual Life  Outstanding      Average      Exercisable      Average
+Range of Exercise Prices    (in years)    (in thousands) Exercise Price (in thousands) Exercise Price
+------------------------ ---------------- -------------- -------------- -------------- --------------
+<S>                      <C>              <C>            <C>            <C>            <C>
+     $13.01-$20.31......        3              5,558          $17            5,558          $17
+     $20.79-$31.08......        3              4,454           27            4,294           27
+     $31.33-$46.78......        6              6,147           38            5,732           37
+     $46.89-$53.02......        7              8,357           50            3,410           51
+     $53.06-$56.68......        8             10,623           56            3,346           56
+     $56.69-$64.75......        5              5,794           59            4,209           59
+                                              ------                        ------
+                                6             40,933          $44           26,549          $39
+                                              ======                        ======
+</TABLE>
+
+   The Company applies Accounting Principles Board Opinion No. 25, "Accounting
+for Stock Issued to Employees," and related interpretations in accounting for
+options granted under the Plans. Accordingly, no compensation expense has been
+recognized. Had compensation expense been determined based on the Black-Scholes
+option pricing model value at the grant date for awards in 2001, 2000 and 1999
+consistent with the provisions of Statement of Financial Accounting Standards
+No. 123, "Accounting for Stock-Based Compensation" (SFAS 123), the Company's
+net income, basic earnings per common share and diluted earnings per common
+share would have been $1,101.7, $1.94 per share and $1.81 per share,
+respectively, in 2001; $1,006.1, $1.71 per share and $1.60 per share,
+respectively, in 2000; and $891.9, $1.49 per share and $1.40 per share,
+respectively, in 1999.
+
+   The weighted average Black-Scholes value of stock option grants issued in
+2001, 2000 and 1999 was $9.37, $10.95 and $8.61, respectively. The
+Black-Scholes value of each option granted is estimated using the Black-Scholes
+option pricing model with the following assumptions: option term until exercise
+ranging from 2 to 7 years, volatility ranging from 22% to 41%, risk-free
+interest rate ranging from 3.3% to 6.2% and an expected dividend yield of 2.5%.
+The Black-Scholes model used to determine the option values shown above was
+developed to estimate the fair value of short-term freely tradable, fully
+transferable options without vesting restrictions and was not designed to value
+reloads, all of which significantly differ from the Company's stock option
+awards. The value of this model is also limited by the inclusion of highly
+subjective assumptions that greatly affect calculated values.
+
+6.  Employee Stock Ownership Plan
+
+   In 1989, the Company expanded its Employee Stock Ownership Plan ("ESOP")
+through the introduction of a leveraged ESOP covering certain employees who
+have met eligibility requirements. The ESOP issued $410.0 of long-term notes
+due through 2009 bearing an average interest rate of 8.7%. The long-term notes,
+which are guaranteed by the Company, are reflected in the accompanying
+Consolidated Balance Sheets. The ESOP used the proceeds of the notes to
+purchase 6.3 million shares of Series B Convertible Preference Stock (the
+"Stock") from the Company. The Stock has a minimum redemption price of $65 per
+share and pays semiannual dividends equal to the higher of $2.44 or the current
+dividend paid on eight common shares for the comparable six-month period.
+During 2000, the ESOP entered into a loan agreement with the Company under
+which the benefits of the ESOP may be extended through 2035.
+
+   Dividends on these preferred shares, as well as common shares also held by
+the ESOP, are paid to the ESOP trust and, together with cash contributions and
+advances from the Company, are used by the ESOP to repay principal and interest
+on the outstanding notes. Preferred shares are released for allocation to
+participants based
+
+                                      30
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+upon the ratio of the current year's debt service to the sum of total principal
+and interest payments over the life of the loan. At December 31, 2001,
+1,630,743 shares were allocated to participant accounts and 3,428,343 shares
+were available for future allocation. Each allocated share may be converted by
+the ESOP Trustee into eight common shares but preferred shares generally
+convert only after the employee ceases to work for the Company.
+
+   Dividends on these preferred shares are deductible for income tax purposes
+and, accordingly, are reflected net of their tax benefit in the Consolidated
+Statements of Retained Earnings, Comprehensive Income and Changes in Capital
+Accounts.
+
+   Annual expense related to the leveraged ESOP, determined as interest
+incurred on the original notes, plus the higher of either principal payments or
+the cost of shares allocated, less dividends received on the shares held by the
+ESOP and advances from the Company, was $0 in 2001, $3.4 in 2000 and $9.2 in
+1999. Unearned compensation, which is shown as a reduction in shareholders'
+equity, represents the amount of ESOP debt outstanding reduced by the
+difference between the cumulative cost of shares allocated and the cumulative
+principal payments.
+
+   Interest incurred on the ESOP's notes was $30.4 in 2001, $31.4 in 2000 and
+$32.0 in 1999. The Company paid dividends on the stock held by the ESOP of
+$29.4 in 2001, $28.6 in 2000 and $29.1 in 1999. Company contributions to the
+ESOP were $0 in 2001, $4.8 in 2000 and $9.3 in 1999.
+
+7.  Retirement Plans and Other Retiree Benefits
+
+Retirement Plans
+
+   The Company, its U.S. subsidiaries and some of its overseas subsidiaries
+maintain defined benefit retirement plans covering substantially all of their
+employees. Benefits are based primarily on years of service and employees'
+career earnings. In the Company's principal U.S. plans, funds are contributed
+to the trusts in accordance with regulatory limits to provide for current
+service and for any unfunded projected benefit obligation over a reasonable
+period. Assets of the plans consist principally of common stocks, guaranteed
+investment contracts with insurance companies, investments in real estate funds
+and U.S. Government and corporate obligations. Domestic plan assets also
+include investments in the Company's common stock representing 10% and 11% of
+plan assets at December 31, 2001 and 2000, respectively.
+
+Other Retiree Benefits
+
+   The Company and certain of its subsidiaries provide health care and life
+insurance benefits for retired employees to the extent not provided by
+government-sponsored plans. The Company utilizes a portion of its leveraged
+ESOP, in the form of future retiree contributions, to reduce its obligation to
+provide these postretirement benefits and offset its current service cost.
+Postretirement benefits otherwise are not currently funded.
+
+                                      31
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+   Summarized information of the Company's defined benefit retirement plans and
+postretirement plans are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                           Other
+                                                         Pension Benefits            Retiree Benefits
+                                               ------------------------------------  ----------------
+                                                 2001      2000     2001     2000     2001     2000
+                                               --------  --------  -------  -------  -------  -------
+                                                  United States      International
+                                               ------------------  ----------------
+<S>                                            <C>       <C>       <C>      <C>      <C>      <C>
+Change in Benefit Obligation
+Benefit obligation at beginning of year....... $  938.3  $  883.1  $ 345.0  $ 347.1  $ 164.2  $ 156.1
+Service cost..................................     31.8      27.8     11.1     12.4     (4.6)    (5.5)
+Interest cost.................................     71.5      68.2     21.5     22.0     16.6     16.6
+Participant's contribution....................      2.7       3.0      2.1      2.3       --       --
+Acquisitions/plan amendments..................       --        --      1.9      4.2       --       --
+Actuarial loss................................     70.3      36.8     10.3      4.7     23.9     11.3
+Foreign exchange impact.......................       --        --    (14.9)   (24.6)    (3.7)    (2.2)
+Benefits paid.................................    (86.1)    (80.6)   (19.9)   (23.1)   (12.8)   (12.1)
+                                               --------  --------  -------  -------  -------  -------
+Benefit obligation at end of year............. $1,028.5  $  938.3  $ 357.1  $ 345.0  $ 183.6  $ 164.2
+                                               --------  --------  -------  -------  -------  -------
+Change in Plan Assets
+Fair value of plan assets at beginning of year $  932.7  $1,038.4  $ 243.7  $ 261.4  $    --  $    --
+Actual return on plan assets..................    (54.2)    (33.5)    (8.2)     4.5       --       --
+Company contributions.........................    105.0       5.4     12.6     14.7     12.8     12.1
+Plan participant contributions................      2.7       3.0      2.1      2.3       --       --
+Foreign exchange impact.......................       --        --    (13.2)   (16.1)      --       --
+Benefits paid.................................    (86.1)    (80.6)   (19.9)   (23.1)   (12.8)   (12.1)
+                                               --------  --------  -------  -------  -------  -------
+Fair value of plan assets at end of year...... $  900.1  $  932.7  $ 217.1  $ 243.7  $    --  $    --
+                                               --------  --------  -------  -------  -------  -------
+Funded Status
+Funded status at end of year.................. $ (128.4) $   (5.6) $(140.0) $(101.3) $(183.6) $(164.2)
+Unrecognized net transition liability/(asset).       .1        .8       .6     (3.2)      --       --
+Unrecognized net actuarial loss/(gain)........    200.8     (10.0)    46.4     21.0     13.5     (7.9)
+Unrecognized prior service costs..............     20.6      26.9      7.0      8.0     (5.4)    (6.5)
+                                               --------  --------  -------  -------  -------  -------
+Net amount recognized......................... $   93.1  $   12.1  $ (86.0) $ (75.5) $(175.5) $(178.6)
+                                               ========  ========  =======  =======  =======  =======
+Amounts Recognized in Balance Sheet
+Other assets.................................. $  198.4  $  102.8  $  34.7  $  36.0  $    --  $    --
+Other liabilities.............................   (105.3)    (90.7)  (120.7)  (111.5)  (175.5)  (178.6)
+                                               --------  --------  -------  -------  -------  -------
+Net amount recognized......................... $   93.1  $   12.1  $ (86.0) $ (75.5) $(175.5) $(178.6)
+                                               ========  ========  =======  =======  =======  =======
+Weighted Average Assumptions
+Discount rate.................................     7.25%     7.75%    6.69%    7.22%    7.25%    7.75%
+Long-term rate of return on plan assets.......     9.00%     9.25%    8.86%    9.11%      --       --
+Long-term rate of compensation increase.......     4.75%     5.00%    3.96%    4.43%      --       --
+ESOP growth rate..............................       --        --       --       --    10.00%   10.00%
+</TABLE>
+
+                                      32
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+   The United States pension benefits include funded qualified plans covering
+most domestic employees and certain unfunded non-qualified plans. As of
+December 31, 2001 and 2000, the United States qualified pension plans had
+benefit obligations of $892.2 and $822.3, and plan assets of $896.8 and $929.3,
+respectively.
+
+<TABLE>
+<CAPTION>
+                                           Pension Benefits                 Other Retiree Benefits
+                            ----------------------------------------------  ---------------------
+                             2001    2000    1999    2001    2000    1999    2001     2000  1999
+                            ------  ------  ------  ------  ------  ------  -----    -----  -----
+                                 United States           International
+                            ----------------------  ----------------------
+<S>                         <C>     <C>     <C>     <C>     <C>     <C>     <C>      <C>    <C>
+Components of Net Periodic
+  Benefit Costs
+Service cost............... $ 31.8  $ 27.8  $ 28.5  $ 11.1  $ 12.4  $ 13.3  $ 4.0    $ 3.7  $ 3.4
+Interest cost..............   71.5    68.2    63.6    21.5    22.0    21.3   16.6     16.6   14.5
+Annual ESOP allocation.....     --      --      --      --      --      --   (8.6)    (9.2)  (8.4)
+Expected return on plan
+  assets...................  (86.6)  (92.9)  (82.7)  (18.7)  (19.1)  (16.1)    --       --     --
+Amortization of transition/
+  prior service costs......    7.1     7.2     (.8)     .1      --     (.2)  (1.0)    (1.0)   (.9)
+Amortization of actuarial
+  loss/(gain)..............     .8    (6.6)    1.3      .7      .3     1.1     .1       .2    (.4)
+                            ------  ------  ------  ------  ------  ------  -----    -----  -----
+Net periodic benefit cost.. $ 24.6  $  3.7  $  9.9  $ 14.7  $ 15.6  $ 19.4  $11.1    $10.3  $ 8.2
+                            ======  ======  ======  ======  ======  ======  =====    =====  =====
+</TABLE>
+
+   The accumulated benefit obligation and fair value of plan assets for the
+pension plans with accumulated benefit obligations in excess of plan assets
+were $287.2 and $69.5, respectively, as of December 31, 2001, and $202.0 and
+$5.4, respectively, as of December 31, 2000. These amounts represent
+non-qualified domestic plans and plans at foreign locations that are primarily
+unfunded, as such book reserves equal to the unfunded amount have been recorded.
+
+   The projected benefit obligation and fair value of plan assets for the
+pension plans with projected benefit obligations in excess of plan assets were
+$472.6 and $199.5, respectively, as of December 31, 2001, and $291.7 and $50.4,
+respectively, as of December 31, 2000.
+
+   The assumed medical cost trend rate used in measuring the postretirement
+benefit obligation was 8% for 2002, 7% for 2003, 6% for 2004 and 5% for years
+thereafter. Changes in this rate can have a significant effect on amounts
+reported. The effect of a 1% increase in the assumed medical cost trend rate
+would increase the accumulated postretirement benefit obligation by
+approximately $17.1 and increase the annual expense by approximately $2.3. The
+effect of a 1% decrease in the assumed medical cost trend rate would decrease
+the accumulated postretirement benefit obligation by approximately $14.2 and
+decrease the annual expense by approximately $1.9.
+
+8.  Income Taxes
+
+   The provision for income taxes consists of the following for the three years
+ended December 31:
+
+<TABLE>
+<CAPTION>
+                                        2001   2000   1999
+                                       ------ ------ ------
+                     <S>               <C>    <C>    <C>
+                        United States. $153.5 $150.9 $130.5
+                        International.  368.6  352.5  326.8
+                                       ------ ------ ------
+                                       $522.1 $503.4 $457.3
+                                       ====== ====== ======
+</TABLE>
+
+                                      33
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+   The components of income before income taxes are as follows for the three
+years ended December 31:
+
+<TABLE>
+<CAPTION>
+                                    2001     2000     1999
+                                  -------- -------- --------
+                    <S>           <C>      <C>      <C>
+                    United States $  474.5 $  483.3 $  406.3
+                    International  1,194.2  1,083.9    988.3
+                                  -------- -------- --------
+                                  $1,668.7 $1,567.2 $1,394.6
+                                  ======== ======== ========
+</TABLE>
+
+   The difference between the statutory U.S. federal income tax rate and the
+Company's global effective tax rate as reflected in the Consolidated Statements
+of Income is as follows:
+
+<TABLE>
+<CAPTION>
+       Percentage of Income Before Tax                  2001  2000  1999
+       -------------------------------                  ----  ----  ----
+       <S>                                              <C>   <C>   <C>
+       Tax at U.S. statutory rate...................... 35.0% 35.0% 35.0%
+       State income taxes, net of federal benefit......   .6    .4    .9
+       Earnings taxed at other than U.S. statutory rate (3.0) (1.7) (1.4)
+       Other, net...................................... (1.3) (1.6) (1.7)
+                                                        ----  ----  ----
+       Effective tax rate.............................. 31.3% 32.1% 32.8%
+                                                        ====  ====  ====
+</TABLE>
+
+   In addition, net tax benefits of $54.4 in 2001, $91.6 in 2000 and $169.0 in
+1999 were recorded directly through equity which included tax benefits related
+to certain employee benefit plans. The 1999 amount also reflects tax benefits
+related to currency devaluation in Brazil.
+
+   Temporary differences between accounting for financial statement purposes
+and accounting for tax purposes result in taxes currently payable being lower
+than the total provision for income taxes as follows:
+
+<TABLE>
+<CAPTION>
+                                                   2001    2000    1999
+                                                  ------  ------  ------
+       <S>                                        <C>     <C>     <C>
+       Property, plant and equipment............. $(12.1) $ (3.2) $(11.6)
+       Pension and other postretirement benefits.  (29.0)   (8.2)   (4.0)
+       Alternative Minimum Tax credit utilization     --   (89.1)  (39.0)
+       Other, net................................   (0.7)   44.1     5.9
+                                                  ------  ------  ------
+                                                  $(41.8) $(56.4) $(48.7)
+                                                  ======  ======  ======
+</TABLE>
+
+   The components of deferred tax assets/(liabilities) are as follows at
+December 31:
+
+<TABLE>
+<CAPTION>
+                                                       2001     2000
+                                                      -------  -------
+        <S>                                           <C>      <C>
+        Deferred Taxes--Current:
+           Accrued liabilities....................... $  65.3  $  65.3
+           Restructuring accrual.....................      --      6.9
+           Other, net................................    43.5     40.8
+                                                      -------  -------
+           Total deferred taxes current..............   108.8    113.0
+                                                      -------  -------
+        Deferred Taxes--Long-term:
+           Intangible assets.........................  (266.7)  (270.1)
+           Property, plant and equipment.............  (269.5)  (257.4)
+           Pension and other postretirement benefits.    (0.3)    54.7
+           Tax loss and tax credit carryforwards.....   100.0     81.4
+           Other, net................................    40.3     18.8
+           Valuation allowance.......................   (84.4)   (74.7)
+                                                      -------  -------
+           Total deferred taxes long-term............  (480.6)  (447.3)
+                                                      -------  -------
+               Net deferred taxes.................... $(371.8) $(334.3)
+                                                      =======  =======
+</TABLE>
+
+                                      34
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+   The major component of the 2001 and 2000 valuation allowance relates to tax
+benefits in certain jurisdictions not expected to be realized.
+
+   Applicable U.S. income and foreign withholding taxes have not been provided
+on approximately $814.0 of undistributed earnings of foreign subsidiaries at
+December 31, 2001. These earnings are currently considered to be permanently
+invested and are not subject to such taxes. Determining the tax liability that
+would arise if these earnings were remitted is not practicable.
+
+9.  Supplemental Income Statement Information
+
+<TABLE>
+<CAPTION>
+           Other Expense, Net                 2001    2000    1999
+           ------------------                ------  ------  ------
+           <S>                               <C>     <C>     <C>
+           Amortization of intangible assets $ 68.0  $ 72.1  $ 75.6
+           Earnings from equity investments.   (0.2)   (2.2)   (5.3)
+           Minority interest................   40.1    32.6    30.4
+           Other, net.......................  (13.4)  (50.2)  (27.1)
+                                             ------  ------  ------
+                                             $ 94.5  $ 52.3  $ 73.6
+                                             ======  ======  ======
+
+           Interest Expense, Net              2001    2000    1999
+           ---------------------             ------  ------  ------
+           Interest incurred................ $192.4  $203.5  $224.0
+           Interest capitalized.............  (14.4)   (3.8)  (11.8)
+           Interest income..................  (11.9)  (26.4)  (40.6)
+                                             ------  ------  ------
+                                             $166.1  $173.3  $171.6
+                                             ======  ======  ======
+
+           Research and development......... $184.9  $176.1  $169.2
+           Media advertising................  509.0   550.9   575.6
+</TABLE>
+
+10.  Supplemental Balance Sheet Information
+
+<TABLE>
+<CAPTION>
+                    Inventories                 2001   2000
+                    -----------                ------ ------
+                    <S>                        <C>    <C>
+                    Raw materials and supplies $188.0 $206.2
+                    Work-in-process...........   27.9   30.7
+                    Finished goods............  461.1  449.7
+                                               ------ ------
+                                               $677.0 $686.6
+                                               ====== ======
+</TABLE>
+
+   Inventories valued under LIFO amounted to $143.1 and $133.0 at December 31,
+2001 and 2000, respectively. The excess of current cost over LIFO cost at the
+end of each year was $30.5 and $34.4, respectively. The liquidations of LIFO
+inventory quantities had no effect on income in 2001, 2000 and 1999.
+
+                                      35
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+<TABLE>
+<CAPTION>
+        Property, Plant and Equipment, Net          2001       2000
+        ----------------------------------        ---------  ---------
+        <S>                                       <C>        <C>
+             Land................................ $   128.8  $   129.0
+             Buildings...........................     726.7      716.2
+             Machinery and equipment.............   3,553.4    3,442.1
+                                                  ---------  ---------
+                                                    4,408.9    4,287.3
+             Accumulated depreciation............  (1,895.4)  (1,759.0)
+                                                  ---------  ---------
+                                                  $ 2,513.5  $ 2,528.3
+                                                  =========  =========
+
+        Goodwill and Other Intangible Assets, Net   2001       2000
+        ----------------------------------------- ---------  ---------
+             Goodwill and other intangibles...... $ 2,623.0  $ 2,747.4
+             Accumulated amortization............    (719.0)    (651.0)
+                                                  ---------  ---------
+                                                  $ 1,904.0  $ 2,096.4
+                                                  =========  =========
+</TABLE>
+
+   The net book value, as of December 31, 2001 and 2000, of goodwill totaled
+$1,284.2 and $1,452.8, respectively, and of other intangible assets totaled
+$619.8 and $643.6, respectively.
+
+<TABLE>
+<CAPTION>
+
+              Other Accruals                         2001   2000
+              --------------                        ------ ------
+              <S>                                   <C>    <C>
+              Accrued payroll and employee benefits $254.9 $286.9
+              Accrued advertising..................  261.8  267.1
+              Accrued interest.....................   23.9   53.0
+              Accrued taxes other than income taxes   48.6   69.9
+              Other................................  234.1  223.3
+                                                    ------ ------
+                                                    $823.3 $900.2
+                                                    ====== ======
+
+              Other Liabilities                      2001   2000
+              -----------------                     ------ ------
+              Minority interest.................... $204.1 $117.2
+              Pension and other benefits...........  401.5  380.8
+              Other................................  116.7   57.9
+                                                    ------ ------
+                                                    $722.3 $555.9
+                                                    ====== ======
+</TABLE>
+
+Accumulated Other Comprehensive Income
+
+   Accumulated Other Comprehensive Income is comprised of cumulative foreign
+currency translation gains and losses, unrealized gains and losses from
+derivative instruments designated as cash flow hedges, unrealized gains and
+losses from available for sale securities and minimum pension liability
+adjustments. As of December 31, 2001 and 2000, Accumulated Other Comprehensive
+Income primarily consisted of cumulative foreign currency translation
+adjustments.
+
+   The 2001 cumulative translation adjustment charge resulted primarily from
+devaluation of the Brazilian real of $105.0 and the Argentine peso of $66.8. In
+2000 and 1999, the cumulative translation adjustment charge related primarily
+to the devaluation of the Brazilian real of $45.1 and $242.4, respectively.
+These charges represented write-downs of foreign currency denominated assets
+(primarily goodwill and property, plant and equipment) that will result in
+lower depreciation expense in future periods.
+
+                                      36
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+11.  Fair Value of Financial Instruments
+
+   In assessing the fair value of financial instruments at December 31, 2001
+and 2000, the Company has used available market information and other valuation
+methodologies. Some judgment is necessarily required in interpreting market
+data to develop the estimates of fair value, and, accordingly, changes in
+assumptions or the estimation methodologies may affect the fair value estimates.
+
+   The estimated fair values of the Company's derivative instruments are as
+follows:
+
+<TABLE>
+<CAPTION>
+                                            2001            2000
+                                      ---------------  --------------
+                                      Notional Fair    Notional Fair
+                                       Amount  Value    Amount  Value
+                                      -------- ------  -------- -----
+         <S>                          <C>      <C>     <C>      <C>
+         Interest rate swap contracts  $788.8  $(13.7)  $824.6  $ 3.7
+         Foreign currency contracts..   591.2    11.9    728.6   (3.3)
+</TABLE>
+
+   The Company utilizes interest rate swap contracts to manage its targeted mix
+of fixed and floating rate debt. Forward exchange and currency swap contracts
+are utilized to hedge a portion of the Company's foreign currency purchases and
+assets and liabilities created in the normal course of business. Forward
+exchange contracts used in hedging forecasted foreign currency purchases have
+durations no greater than 18 months.
+
+   As of December 31, 2001, the Company's derivative instruments were recorded
+as assets or liabilities at estimated fair value. As of December 31, 2000, the
+net carrying values of the interest rate swap contracts and the foreign
+currency contracts were $0 and $18.3, respectively. Prior to the adoption of
+SFAS 133, the fair values related to certain of these contracts were not
+required to be recognized in the Company's financial statements.
+
+   The cumulative gains/(losses) related to those foreign currency contracts
+and interest rate swap contracts designated as cash flow hedges expected to be
+recognized in earnings over the next 12 months, when the offsetting effects of
+the hedged item are also recorded in earnings, are $1.8 and ($9.3),
+respectively.
+
+Other Financial Instruments
+
+   The carrying amount of cash and cash equivalents, marketable securities,
+long-term investments and short-term debt approximated fair value as of
+December 31, 2001 and 2000. The estimated fair value of the Company's long-term
+debt, including current portion, as of December 31, 2001 and 2000, was $3,312.5
+and $2,880.7, respectively, and the related carrying value was $3,137.5 and
+$2,857.1, respectively.
+
+Credit Risk
+
+   The Company is exposed to credit loss in the event of nonperformance by
+counterparties to the financial instrument contracts held by the Company;
+however, nonperformance by these counterparties is considered remote as it is
+the Company's policy to contract with diversified counterparties that have a
+long-term debt rating of A or higher. In addition, if all these counterparties
+did not perform, the Company's risk of credit loss would not be material.
+
+12.  Restructured Operations
+
+   In December 2000, the Company recorded a charge of $63.9 ($42.5 aftertax)
+associated with the realignment of three manufacturing locations in Latin
+America and the exiting of our business in Nigeria. The charge, recorded in
+Other expense, net, included $14.2 for termination costs and $49.7 for exiting
+of manufacturing operations. The restructuring was completed in 2001 with a
+final payment of $7.2 representing termination costs for 979 employees.
+
+                                      37
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+13.  Earnings Per Share
+
+
+<TABLE>
+<CAPTION>
+                       For the Year Ended 2001        For the Year Ended 2000       For the Year Ended 1999
+                    ------------------------------ ------------------------------ ----------------------------
+                                Shares                         Shares                       Shares
+                     Income   (millions) Per Share  Income   (millions) Per Share Income  (millions) Per Share
+                    --------  ---------- --------- --------  ---------- --------- ------  ---------- ---------
+<S>                 <C>       <C>        <C>       <C>       <C>        <C>       <C>     <C>        <C>
+Net income......... $1,146.6                       $1,063.8                       $937.3
+Preferred dividends    (21.7)                         (20.7)                       (21.0)
+                    --------                       --------                       ------
+Basic EPS..........  1,124.9    557.8      $2.02    1,043.1    574.9      $1.81    916.3    583.1      $1.57
+                                           =====                          =====                        =====
+Stock options......               8.8                            9.8                         11.7
+
+ESOP conversion....     21.3     41.1                  20.3     42.6                19.7     44.0
+                    --------    -----              --------    -----              ------    -----
+Diluted EPS........ $1,146.2    607.7      $1.89   $1,063.4    627.3      $1.70   $936.0    638.8      $1.47
+                    ========    =====      =====   ========    =====      =====   ======    =====      =====
+</TABLE>
+
+   In determining the dilutive effect of the stock options, the number of
+shares resulting from the assumed exercise of the options is appropriately
+reduced by the number of shares that could have been purchased by the Company
+with the proceeds from the exercise of such options.
+
+14.  Commitments and Contingencies
+
+   Minimum rental commitments under noncancellable operating leases, primarily
+for office and warehouse facilities, are $71.9 in 2002, $62.0 in 2003, $53.5 in
+2004, $47.9 in 2005, $46.6 in 2006 and $125.9 thereafter. Rental expense
+amounted to $96.9 in 2001, $90.6 in 2000 and $102.4 in 1999. Contingent
+rentals, sublease income and capital leases, which are included in fixed
+assets, are not significant.
+
+   The Company has various contractual commitments to purchase raw materials,
+products and services totaling $156.4 that expire through 2004.
+
+   The Company is a party to various superfund and other environmental matters
+and is contingently liable with respect to lawsuits, taxes and other matters
+arising out of the normal course of business. Management proactively reviews
+and manages its exposure to, and the impact of, environmental matters and other
+contingencies.
+
+   In 1995, the Company acquired the Kolynos oral care business from American
+Home Products, as described in the Company's Form 8-K dated January 10, 1995.
+On September 8, 1998, the Company's Brazilian subsidiary received notice of an
+administrative proceeding from the Central Bank of Brazil primarily taking
+issue with certain foreign exchange filings made with the Central Bank in
+connection with the financing of this strategic transaction, but in no way
+challenging or seeking to unwind the acquisition. The Central Bank of Brazil in
+January 2001 notified the Company of its decision in this administrative
+proceeding to impose a fine, which, at the current exchange rate, approximates
+$110. The Company has appealed the decision to the Brazilian Monetary System
+Appeals Council (the "Council"), thereby suspending the fine pending the
+decision of the Council. If the fine is affirmed, interest and penalties may
+also be assessed. Further appeals are available within the Brazilian federal
+courts. Management believes, based on the opinion of its Brazilian legal
+counsel and other experts, that the filings challenged by the Central Bank
+fully complied with Brazilian law and that the Company will prevail on appeal.
+The Company intends to challenge this fine vigorously.
+
+   In addition, the Brazilian internal revenue authority has disallowed
+interest deductions and foreign exchange losses taken by the Company's
+Brazilian subsidiary in connection with the financing of the Kolynos
+acquisition, imposing a tax assessment which has been determined, at the
+current exchange rate, to approximate $40. The Company has filed an
+administrative appeal with the Brazilian internal revenue authority, and
+further appeals are available within the Brazilian federal courts. Management
+believes, based on the opinion of its Brazilian legal counsel and other
+experts, that the disallowance is without merit and that the Company will
+prevail on appeal. The Company intends to challenge this assessment vigorously.
+
+                                      38
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+            Notes to Consolidated Financial Statements--(continued)
+
+                (Dollars in Millions Except Per Share Amounts)
+
+
+   While it is possible that the Company's cash flows and results of operations
+in a particular quarter or year could be affected by the one-time impacts of
+the resolution of such contingencies, it is the opinion of management that the
+ultimate disposition of these matters, to the extent not previously provided
+for, will not have a material impact on the Company's financial position or
+ongoing cash flows and results of operations.
+
+15.  Quarterly Financial Data (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                     First   Second    Third   Fourth
+                                    Quarter  Quarter  Quarter  Quarter
+                                    -------- -------- -------- --------
+         <S>                        <C>      <C>      <C>      <C>
+         2001
+         Net sales................. $2,292.6 $2,329.6 $2,391.2 $2,414.4
+         Gross profit..............  1,259.8  1,278.6  1,319.2  1,333.3
+         Net income................    267.9    287.2    296.2    295.3
+
+         Earnings per common share:
+            Basic..................      .47      .50      .52      .53
+            Diluted................      .44      .47      .49      .49
+         2000
+         Net sales................. $2,241.8 $2,336.7 $2,366.5 $2,412.9
+         Gross profit..............  1,221.2  1,270.9  1,293.5  1,306.8
+         Net income................    239.9    261.9    275.3    286.7
+
+         Earnings per common share:
+            Basic..................      .41      .45      .47      .49
+            Diluted................      .38      .42      .44      .46
+</TABLE>
+
+
+                                      39
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+                        Market and Dividend Information
+
+   The Company's common stock and $4.25 Preferred Stock are listed on the New
+York Stock Exchange. The trading symbol for the common stock is CL. Dividends
+on the common stock have been paid every year since 1895 and the amount of
+dividends paid per share has increased for 39 consecutive years.
+
+     Market Price
+     Quarter Ended        Common Stock            $4.25 Preferred Stock
+     ------------- --------------------------- ---------------------------
+                       2001          2000          2001          2000
+                   ------------- ------------- ------------- -------------
+                    High   Low    High   Low    High   Low    High   Low
+                   ------ ------ ------ ------ ------ ------ ------ ------
+     March 31..... $62.50 $51.00 $64.81 $42.75 $89.00 $86.85 $89.00 $86.00
+     June 30......  61.00  51.26  62.63  52.63  89.75  85.93  88.00  86.00
+     September 30.  60.25  52.64  59.88  43.06  88.00  85.50  88.00  85.75
+     December 31..  59.41  56.15  64.56  46.50  88.00  85.00  88.50  86.50
+     Closing Price    $57.75        $64.55        $87.50        $87.75
+
+
+
+     Dividends Paid
+     Per Share
+     Quarter Ended     2001          2000          2001          2000
+     -------------    ------        ------        -------       -------
+     March 31........ $.1575        $.1575        $1.0625       $1.0625
+     June 30.........  .1575         .1575         1.0625        1.0625
+     September 30....  .1800         .1575         1.0625        1.0625
+     December 31.....  .1800         .1575         1.0625        1.0625
+                      ------        ------        -------       -------
+        Total........ $ .675        $  .63        $  4.25       $  4.25
+                        ====        ======        =======       =======
+
+                                      40
+
+<PAGE>
+
+                SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS
+
+                     For the Year Ended December 31, 2001
+
+                (Dollars in Millions Except Per Share Amounts)
+
+<TABLE>
+<CAPTION>
+                  Column A                      Column B       Column C       Column D    Column E
+                  --------                     ---------- ------------------ ----------   ---------
+                                                              Additions
+                                                          ------------------
+                                               Balance at Charged to                       Balance
+                                               Beginning  Costs and                        at End
+                 Description                   of Period   Expenses    Other Deductions   of Period
+                 -----------                   ---------- ----------   ----- ----------   ---------
+<S>                                            <C>        <C>          <C>   <C>          <C>
+Allowance for doubtful accounts...............   $ 39.8     $11.7      $ --    $ 5.9/(1)/  $ 45.6
+                                                 ======     =====      ====    =====       ======
+Accumulated amortization of goodwill and other
+  intangibles.................................   $651.0     $68.0      $ --    $  --       $719.0
+                                                 ======     =====      ====    =====       ======
+Valuation allowance for deferred tax assets...   $ 74.7     $27.0/(2)/ $ --    $17.3/(2)/  $ 84.4
+                                                 ======     =====      ====    =====       ======
+</TABLE>
+--------
+NOTES:
+
+/(1)/ Uncollectible accounts written off and cash discounts allowed.
+/(2)/ Increase/decrease in allowance for tax loss and tax credit carryforward
+      benefits that are likely not to be utilized in the future.
+
+                                      41
+
+<PAGE>
+
+                SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS
+
+                     For the Year Ended December 31, 2000
+
+                (Dollars in Millions Except Per Share Amounts)
+
+<TABLE>
+<CAPTION>
+                  Column A                      Column B      Column C      Column D   Column E
+                  --------                     ---------- ---------------- ---------- ----------
+                                                             Additions
+                                                          ----------------
+                                               Balance at Charged to                  Balance at
+                                               Beginning  Costs and                     End of
+                 Description                   of Period   Expenses  Other Deductions   Period
+                 -----------                   ---------- ---------- ----- ---------- ----------
+<S>                                            <C>        <C>        <C>   <C>        <C>
+Allowance for doubtful accounts...............   $ 37.2     $10.3    $ --  $ 7.7/(1)/   $ 39.8
+                                                 ======     =====    ====  =====        ======
+Accumulated amortization of goodwill and other
+  intangibles.................................   $578.9     $72.1    $ --  $  --        $651.0
+                                                 ======     =====    ====  =====        ======
+Valuation allowance for deferred tax assets...   $137.0     $  --    $ --  $62.3/(2)/   $ 74.7
+                                                 ======     =====    ====  =====        ======
+</TABLE>
+--------
+NOTES:
+
+/(1)/ Uncollectible accounts written off and cash discounts allowed.
+/(2)/ Decrease in allowance due to utilization of tax credits and net operating
+      loss carryforwards.
+
+                                      42
+
+<PAGE>
+
+                SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS
+
+                     For the Year Ended December 31, 1999
+
+                (Dollars in Millions Except Per Share Amounts)
+
+<TABLE>
+<CAPTION>
+                  Column A                      Column B        Column C         Column D    Column E
+                  --------                     ---------- ----------------      ----------   ---------
+                                                             Additions
+                                                          ----------------
+                                               Balance at Charged to                          Balance
+                                               Beginning  Costs and                           at End
+                 Description                   of Period   Expenses  Other      Deductions   of Period
+                 -----------                   ---------- ---------- -----      ----------   ---------
+<S>                                            <C>        <C>        <C>        <C>          <C>
+
+Allowance for doubtful accounts...............   $ 35.9     $ 10.2   $  --        $ 8.9/(1)/  $ 37.2
+                                                 ======     ======   =====        =====       ======
+Accumulated amortization of goodwill and other
+  intangibles.................................   $556.7     $ 75.6   $  --        $53.4/(2)/  $578.9
+                                                 ======     ======   =====        =====       ======
+Valuation allowance for deferred tax assets...   $122.8     $   --   $52.3/(3)/   $38.1/(3)/  $137.0
+                                                 ======     ======   =====        =====       ======
+</TABLE>
+--------
+NOTES:
+
+/(1)/ Uncollectible accounts written off and cash discounts allowed.
+/(2)/ Primarily due to the impact of exchange rate changes in Brazil.
+/(3)/ Increase/decrease in allowance for tax loss and tax credit carryforward
+      benefits that are likely not to be utilized in the future.
+
+                                      43
+
+<PAGE>
+
+                   Report of Independent Public Accountants
+
+To the Board of Directors and Shareholders of
+  Colgate-Palmolive Company:
+
+   We have audited the accompanying consolidated balance sheets of
+Colgate-Palmolive Company (a Delaware corporation) and subsidiaries as of
+December 31, 2001 and 2000, and the related consolidated statements of income,
+retained earnings, comprehensive income and changes in capital accounts, and
+cash flows for each of the three years in the period ended December 31, 2001.
+These financial statements and the schedules referred to below are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements and schedules based on our audits.
+
+   We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+   In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Colgate-Palmolive Company
+and subsidiaries as of December 31, 2001 and 2000, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 2001 in conformity with accounting principles generally accepted
+in the United States.
+
+   Our audit was made for the purpose of forming an opinion on the basic
+financial statements taken as a whole. The schedules listed in the index to
+financial statements are presented for purposes of complying with the
+Securities and Exchange Commission's rules and are not part of the basic
+financial statements. These schedules have been subjected to the auditing
+procedures applied in the audit of the basic financial statements and, in our
+opinion, fairly state in all material respects the financial data required to
+be set forth therein in relation to the basic financial statements taken as a
+whole.
+
+                                          /s/  ARTHUR ANDERSEN LLP
+
+New York, New York
+February 4, 2002
+
+                                      44
+
+<PAGE>
+
+COLGATE-PALMOLIVE COMPANY
+
+Historical Financial Summary/(1)/
+
+Dollars in Millions Except Per Share Amounts
+
+<TABLE>
+<CAPTION>
+                                        2001     2000     1999     1998     1997     1996     1995          1994
+                                      -------- -------- -------- -------- -------- -------- --------      --------
+<S>                                   <C>      <C>      <C>      <C>      <C>      <C>      <C>           <C>
+Continuing Operations
+Net sales............................ $9,427.8 $9,357.9 $9,118.2 $8,971.6 $9,056.7 $8,749.0 $8,358.2      $7,587.9
+Results of operations:
+   Net income........................  1,146.6  1,063.8    937.3    848.6    740.4    635.0    172.0/(2)/    580.2/(3)/
+   Per share, basic..................     2.02     1.81     1.57     1.40     1.22     1.05      .26/(2)/      .96/(3)/
+   Per share, diluted................     1.89     1.70     1.47     1.30     1.13      .98      .25/(2)/      .89/(3)/
+Depreciation and amortization expense    336.2    337.8    340.2    330.3    319.9    316.3    300.3         235.1
+
+Financial Position
+Current ratio........................      1.0      1.0      1.0      1.1      1.1      1.2      1.3           1.4
+Property, plant and equipment, net...  2,513.5  2,528.3  2,551.1  2,589.2  2,441.0  2,428.9  2,155.2       1,988.1
+Capital expenditures.................    340.2    366.6    372.8    389.6    478.5    459.0    431.8         400.8
+Total assets.........................  6,984.8  7,252.3  7,423.1  7,685.2  7,538.7  7,901.5  7,642.3       6,142.4
+Long-term debt.......................  2,812.0  2,536.9  2,243.3  2,300.6  2,340.3  2,786.8  2,992.0       1,751.5
+Shareholders' equity.................    846.4  1,468.1  1,833.7  2,085.6  2,178.6  2,034.1  1,679.8       1,822.9
+
+Share and Other
+Book value per common share..........     1.54     2.57     3.14     3.53     3.65     3.42     2.84          3.12
+Cash dividends declared and
+ paid per common share...............     .675      .63      .59      .55      .53      .47      .44           .39
+Closing price........................    57.75    64.55    65.00    46.44    36.75    23.06    17.56         15.84
+
+Number of common shares
+ outstanding (in millions)...........    550.7    566.7    578.9    585.4    590.8    588.6    583.4         577.6
+Number of shareholders of record:
+   $4.25 Preferred...................      224      247      275      296      320      350      380           400
+   Common............................   40,900   42,300   44,600   45,800   46,800   45,500   46,600        44,100
+Average number of employees..........   38,500   38,300   37,200   38,300   37,800   37,900   38,400        32,800
+</TABLE>
+<TABLE>
+<CAPTION>
+                                        1993          1992
+                                      --------      --------
+<S>                                   <C>           <C>
+Continuing Operations
+Net sales............................ $7,141.3      $7,007.2
+Results of operations:
+   Net income........................    189.9/(4)/    477.0
+   Per share, basic..................      .27/(4)/      .73
+   Per share, diluted................      .26/(4)/      .68
+Depreciation and amortization expense    209.6         192.5
+
+Financial Position
+Current ratio........................      1.5           1.5
+Property, plant and equipment, net...  1,766.3       1,596.8
+Capital expenditures.................    364.3         318.5
+Total assets.........................  5,761.2       5,434.1
+Long-term debt.......................  1,532.4         946.5
+Shareholders' equity.................  1,875.0       2,619.8
+
+Share and Other
+Book value per common share..........     3.10          4.05
+Cash dividends declared and
+ paid per common share...............      .34           .29
+Closing price........................    15.59         13.94
+
+Number of common shares
+ outstanding (in millions)...........    597.0         641.0
+Number of shareholders of record:
+   $4.25 Preferred...................      450           470
+   Common............................   40,300        36,800
+Average number of employees..........   28,000        28,800
+</TABLE>
+--------
+/(1) / All share and per share amounts have been restated to reflect the 1999,
+       1997 and 1991 two-for-one stock splits.
+/(2) / Income in 1995 includes a net provision for restructured operations of
+       $369.2. (Excluding this charge, earnings per share would have been $.89,
+       basic and $.84, diluted.)
+/(3) / Income in 1994 includes a one-time charge of $5.2 for the sale of a
+       non-core business, Princess House.
+/(4) / Income in 1993 includes a one-time impact of adopting new mandated
+       accounting standards, effective in the first quarter of 1993, of $358.2.
+       (Excluding this charge, earnings per share would have been $.84,
+       basic and $.79, diluted.)
+
+                                      45
+
+<PAGE>
+
+                           COLGATE-PALMOLIVE COMPANY
+
+                             EXHIBITS TO FORM 10-K
+
+                         YEAR ENDED DECEMBER 31, 2001
+
+                           Commission File No. 1-644
+
+<TABLE>
+<CAPTION>
+Exhibit No.                                            Description
+-----------                                            -----------
+<C>         <S>
+
+  3-A       Restated Certificate of Incorporation,as amended. (Registrant hereby incorporates by reference
+            Exhibit 1 to its Form 8-K dated October 17, 1991, File No. 1-644-2.)
+
+  3-B       By-laws. (Registrant hereby incorporates by reference Exhibit 3-B to its Annual Report on Form
+            10-K for the year ended December 31, 2000, File No. 1-644.)
+
+  4-A       Rights Agreement dated as of October 23, 1998 between registrant and First Chicago Trust
+            Company of New York. (Registrant hereby incorporates by reference Exhibit 1 to its Form 8-A
+            dated October 23, 1998, File No. 1-644-2.)
+
+  4-B a)    Other instruments defining the rights of security holders, including indentures.*
+
+     b)     Colgate-Palmolive Company Employee Stock Ownership Trust Note Agreement dated as of June
+            1, 1989, as amended. (Registrant hereby incorporates by reference Exhibit 4-B (b) to its Quarterly
+            Report on Form 10-Q for the quarter ended June 30, 2000, File No. 1-644-2.)
+
+  10-A a)   Colgate-Palmolive Company Executive Incentive Compensation Plan, amended and restated as of
+            March 11, 1999. (Registrant hereby incorporates by reference Appendix A to its 1999 Notice of
+            Meeting and Proxy Statement.)
+
+     b)     Colgate-Palmolive Company Executive Incentive Compensation Plan Trust, as amended.
+            (Registrant hereby incorporates by reference Exhibit 10-B (b) to its Annual Report on Form 10-K
+            for the year ended December 31, 1987, File No. 1-644-2.)
+
+  10-B a)   Colgate-Palmolive Company Supplemental Salaried Employees Retirement Plan. (Registrant
+            hereby incorporates by reference Exhibit 10-E (Plan only) to its Annual Report on Form 10-K for
+            the year ended December 31, 1984, File No. 1-644-2.)
+
+     b)     Colgate-Palmolive Company Supplemental Salaried Employees Retirement Plan Trust.
+            (Registrant hereby incorporates by reference Exhibit 10-C (b) to its Annual Report on Form 10-K
+            for the year ended December 31, 1987, File No. 1-644-2.)
+
+  10-C a)   Colgate-Palmolive Company Executive Severance Plan, as amended and restated. (Registrant
+            hereby incorporates by reference Exhibit 10-E (a) to its Quarterly Report on Form 10-Q for the
+            quarter ended June 30, 2001, File No. 1-644.)
+
+     b)     Colgate-Palmolive Company Executive Severance Plan Trust. (Registrant hereby incorporates by
+            reference Exhibit 10-E (b) to its Annual Report on Form 10-K for the year ended December 31,
+            1987, File No. 1-644-2.)
+
+  10-D      Colgate-Palmolive Company Pension Plan for Outside Directors, as amended and restated.
+            (Registrant hereby incorporates by reference Exhibit 10-D to its Annual Report on Form 10-K for
+            the year ended December 31, 1999, File No. 1-644-2.)
+
+  10-E      Colgate-Palmolive Company Stock Plan for Non-Employee Directors. (Registrant hereby
+            incorporates by reference Exhibit 10-G to its Annual Report on Form 10-K for the year ended
+            December 31, 1997, File No. 1-644.)
+
+  10-F      Colgate-Palmolive Company Restated and Amended Deferred Compensation Plan for Non-
+            Employee Directors, as amended. (Registrant hereby incorporates by reference Exhibit 10-H to its
+            Annual Report on Form 10-K for the year ended December 31, 1997, File No. 1-644.)
+
+  10-G      Career Achievement Plan. (Registrant hereby incorporates by reference Exhibit 10-I to its Annual
+            Report on Form 10-K for the year ended December 31, 1986, File No. 1-644-2.)
+</TABLE>
+
+                                      46
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Exhibit No.                                            Description
+-----------                                            -----------
+<C>         <S>
+
+  10-H      Colgate-Palmolive Company 1987 Stock Option Plan, as amended. (Registrant hereby
+            incorporates by reference Exhibit 10-J to its Annual Report on Form 10-K for the year ended
+            December 31, 1997, File No. 1-644.)
+
+  10-I a)   Stock Incentive Agreement between Colgate-Palmolive Company and Reuben Mark, Chairman
+            and Chief Executive Officer, dated January 13, 1993, pursuant to the Colgate-Palmolive Company
+            1987 Stock Option Plan, as amended. (Registrant hereby incorporates by reference Exhibit 10-N to
+            its Annual Report on Form 10-K for the year ended December 31, 1993, File No. 1-644-2.)
+
+     b)     Stock Incentive Agreement between Colgate-Palmolive Company and Reuben Mark, Chairman
+            and Chief Executive Officer, dated November 7, 1997, pursuant to the Colgate-Palmolive
+            Company 1997 Stock Option Plan. (Registrant hereby incorporates by reference Exhibit 10-K(b)
+            to its Annual Report on Form 10-K for the year ended December 31, 1997, File No. 1-644.)
+
+  10-J      Colgate-Palmolive Company Non-Employee Director Stock Option Plan, as amended. (Registrant
+            hereby incorporates by reference Exhibit 10-L to its Annual Report on Form 10-K for the year
+            ended December 31, 1997, File No. 1-644.)
+
+  10-K a)   U.S. $800,000,000 Five Year Credit Agreement dated as of May 30, 1997. (Registrant hereby
+            incorporates by reference Exhibit 10-N to its Quarterly Report on Form 10-Q for the quarter ended
+            June 30, 1997, File No. 1-644.)
+
+     b)     Amendment dated as of April 1, 1998 to the Five Year Credit Agreement dated as of May 30,
+            1997. (Registrant hereby incorporates reference Exhibit 10-M(b) to its Quarterly Report on Form
+            10-Q for the quarter ended March 31, 1998, File No. 1-644.)
+
+  10-L      Colgate-Palmolive Company 1996 Stock Option Plan, as amended. (Registrant hereby
+            incorporates by reference Exhibit 10-N to its Annual Report on Form 10-K for the year ended
+            December 31, 1997, File No. 1-644.)
+
+  10-M      Colgate-Palmolive Company 1997 Stock Option Plan. (Registrant hereby incorporates by
+            reference appendix A to its 1997 Notice of Meeting and Proxy Statement.)
+
+  12        Statement re Computation of Ratio of Earnings to Fixed Charges.
+
+  21        Subsidiaries of the Registrant.
+
+  23        Consent of Independent Public Accountants.
+
+  24        Powers of Attorney.
+</TABLE>
+--------
+*  Registrant hereby undertakes upon request to furnish the Commission with a
+   copy of any instrument with respect to long-term debt where the total amount
+   of securities authorized thereunder does not exceed 10% of the total assets
+   of the registrant and its subsidiaries on a consolidated basis.
+
+   The exhibits indicated above that are not included with the Form 10-K are
+available upon request and payment of a reasonable fee approximating the
+registrant's cost of providing and mailing the exhibits. Inquiries should be
+directed to:
+
+                                          Colgate-Palmolive Company
+                                          Office of the Secretary (10-K
+                                            Exhibits)
+                                          300 Park Avenue
+                                          New York, New York 10022-7499
+
+                                      47
+
+</TEXT>
+</DOCUMENT>
