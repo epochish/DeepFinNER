@@ -1,0 +1,1321 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.txt
+<DESCRIPTION>BANK OF AMERICA
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            WASHINGTON, D.C. 20549
+
+                               -----------------
+
+                                   Form 10-K
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+  For the Fiscal Year Ended December 31, 2001 - Commission File Number 1-6523
+
+                               -----------------
+                          Bank of America Corporation
+            (Exact name of registrant as specified in its charter)
+
+                      Delaware                 56-0906609
+              ------------------------- -------------------------
+              (State of incorporation)        (IRS Employer
+                                           Identification No.)
+
+              Bank of America Corporate
+                       Center
+              Charlotte, North Carolina
+              -------------------------           28255
+                (Address of principal   -------------------------
+                 executive offices)            (Zip Code)
+
+               1.800.299.2265
+------------------------------------------
+             (Registrant's telephone number, including area code)
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+<TABLE>
+<CAPTION>
+           Title of each class             Name of each exchange on which registered
+<S>                                        <C>
+Common Stock                                        New York Stock Exchange
+                                                    London Stock Exchange
+                                                    Pacific Stock Exchange
+                                                    Tokyo Stock Exchange
+7 3/4% Debentures, due 2002                         American Stock Exchange
+S&P 500 Index(R) Linked Notes, due 2003             American Stock Exchange
+DIJA/SM/ Return Linked Notes, due 2005              American Stock Exchange
+8 1/2% Subordinated Notes, due 2007                 New York Stock Exchange
+10 7/8% Subordinated Notes, due 2003                New York Stock Exchange
+ .25% Senior Basket-Indexed Notes, due 2006          New York Stock Exchange
+</TABLE>
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:  NONE
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 of the Securities Exchange Act of 1934
+during the preceding 12 months, and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                 Yes X  No __
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or in any amendment to
+this Form 10-K. [_]
+
+The aggregate market value of the registrant's common stock ("Common Stock")
+held by non-affiliates is approximately $101,953,922,043 (based on the March
+14, 2002, closing price of Common Stock of $67.00 per share). As of March 14,
+2002, there were 1,541,020,192 shares of Common Stock outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+<TABLE>
+<CAPTION>
+           Document of the Registrant                          Form 10-K Reference Locations
+<S>                                                            <C>
+      Portions of the 2001 Annual Report to Stockholders            PARTS I, II and IV
+      Portions of the 2002 Proxy Statement                          PART III
+</TABLE>
+
+================================================================================
+
+<PAGE>
+
+                                    PART I
+Item 1. BUSINESS
+
+General
+
+   Bank of America Corporation (the "Corporation") is a Delaware corporation, a
+bank holding company and a financial holding company under the
+Gramm-Leach-Bliley Act. The principal executive offices of the Corporation are
+located in the Bank of America Corporate Center, Charlotte, North Carolina
+28255.
+
+Primary Market Areas
+
+   Through its banking subsidiaries (the "Banks") and various nonbanking
+subsidiaries, the Corporation provides a diversified range of banking and
+nonbanking financial services and products, primarily throughout the
+Mid-Atlantic (Maryland, Virginia and the District of Columbia), the Midwest
+(Illinois, Iowa, Kansas and Missouri), the Southeast (Florida, Georgia, North
+Carolina, South Carolina and Tennessee), the Southwest (Arizona, Arkansas, New
+Mexico, Oklahoma and Texas), the Northwest (Oregon and Washington) and the West
+(California, Idaho and Nevada) regions of the United States and in selected
+international markets. Management believes that these are desirable regions in
+which to be located. Based on the most recent available data, personal income
+levels in the states in these regions as a whole rose 7.9 percent year-to-year
+through the third quarter of 2001, compared to growth of 6.4 percent in the
+rest of the United States. In addition, the population in these states as a
+whole rose an estimated 3.6 percent between 2000 and 2001, compared to growth
+of 2.7 percent in the rest of the United States. Through December 2001, the
+average rate of unemployment in these states was 5.1 percent, ranging from
+Virginia's 3.0 percent to Oregon's 7.3 percent, compared to a rate of
+unemployment of 4.8 percent in the rest of the United States. These states lost
+0.2 million jobs in 2001, 0.5 percent below year-end 2000, compared to 0.4
+percent below year-end 2000 in the rest of the United States. The number of
+housing permits authorized remained at historically high levels during 2001 but
+was down 1.6 percent from record high activity in 1999.
+
+   The Corporation has the leading bank deposit market share position in
+California, Florida, Maryland, North Carolina and Washington. In addition, the
+Corporation ranks second in terms of bank deposit market share in Arizona,
+Kansas, Missouri, Nevada, New Mexico, South Carolina, Texas and the District of
+Columbia; third in Arkansas, Georgia and Virginia; fourth in Idaho, Oklahoma
+and Oregon; fifth in Tennessee; twelfth in Iowa; and thirteenth in Illinois.
+
+Acquisition and Disposition Activity
+
+   As part of its operations, the Corporation regularly evaluates the potential
+acquisition of, and holds discussions with, various financial institutions and
+other businesses of a type eligible for financial holding company ownership or
+control. In addition, the Corporation regularly analyzes the values of, and
+submits bids for, the acquisition of customer-based funds and other liabilities
+and assets of such financial institutions and other businesses. The Corporation
+also regularly considers the potential disposition of certain of its assets,
+branches, subsidiaries or lines of businesses. As a general rule, the
+Corporation publicly announces any material acquisitions or dispositions when a
+definitive agreement has been reached.
+
+Government Supervision and Regulation
+
+   The following discussion describes elements of an extensive regulatory
+framework applicable to bank holding companies, financial holding companies and
+banks and specific information about the Corporation and its subsidiaries.
+Federal regulation of banks, bank holding companies and financial holding
+companies is intended primarily for the protection of depositors and the Bank
+Insurance Fund rather than for the protection of stockholders and creditors.
+
+  General
+
+   As a registered bank holding company and financial holding company, the
+Corporation is subject to the supervision of, and regular inspection by, the
+Board of Governors of the Federal Reserve System (the "Federal Reserve Board").
+The Banks are organized predominantly as national banking associations, which
+are subject to regulation, supervision and examination by the Office of the
+Comptroller of the Currency (the "Comptroller" or "OCC"), the Federal Deposit
+Insurance Corporation (the "FDIC"), the Federal Reserve
+
+                                      1
+
+<PAGE>
+
+Board and other federal and state regulatory agencies. In addition to banking
+laws, regulations and regulatory agencies, the Corporation and its subsidiaries
+and affiliates are subject to various other laws and regulations and
+supervision and examination by other regulatory agencies, all of which directly
+or indirectly affect the operations and management of the Corporation and its
+ability to make distributions to stockholders.
+
+   A financial holding company, and the companies under its control, are
+permitted to engage in activities considered "financial in nature" as defined
+by the Gramm-Leach-Bliley Act and Federal Reserve Board interpretations
+(including, without limitation, insurance and securities activities), and
+therefore may engage in a broader range of activities than permitted for bank
+holding companies and their subsidiaries. A financial holding company may
+engage directly or indirectly in activities considered financial in nature,
+either de novo or by acquisition, provided the financial holding company gives
+the Federal Reserve Board after-the-fact notice of the new activities. The
+Gramm-Leach-Bliley Act also permits national banks, such as the Banks, to
+engage in activities considered financial in nature through a financial
+subsidiary, subject to certain conditions and limitations and with the approval
+of the Comptroller.
+
+  Interstate Banking
+
+   Bank holding companies (including bank holding companies that also are
+financial holding companies) also are required to obtain the prior approval of
+the Federal Reserve Board before acquiring more than five percent of any class
+of voting stock of any bank which is not already majority-owned by the bank
+holding company. Pursuant to the Riegle-Neal Interstate Banking and Branching
+Efficiency Act of 1994 (the "Interstate Banking and Branching Act"), a bank
+holding company may acquire banks in states other than its home state without
+regard to the permissibility of such acquisitions under state law, but subject
+to any state requirement that the bank has been organized and operating for a
+minimum period of time, not to exceed five years, and the requirement that the
+bank holding company, after the proposed acquisition, controls no more than 10
+percent of the total amount of deposits of insured depository institutions in
+the United States and no more than 30 percent or such lesser or greater amount
+set by state law of such deposits in that state.
+
+   Subject to certain restrictions, the Interstate Banking and Branching Act
+also authorizes banks to merge across state lines to create interstate
+branches. The Interstate Banking and Branching Act also permits a bank to open
+new branches in a state in which it does not already have banking operations if
+such state enacts a law permitting de novo branching. The Corporation has
+consolidated its retail subsidiary banks into a single interstate bank (Bank of
+America, N.A.), headquartered in Charlotte, North Carolina, with full service
+branch offices in 21 states and the District of Columbia. In addition, the
+Corporation operates a limited purpose nationally chartered credit card bank
+(Bank of America, N.A. (USA)), headquartered in Phoenix, Arizona, and three
+nationally chartered bankers' banks: Bank of America Oregon, N.A.,
+headquartered in Portland, Oregon; Bank of America California, N.A.,
+headquartered in Walnut Creek, California; and Bank of America Georgia, N.A.,
+headquartered in Atlanta, Georgia.
+
+  Changes in Regulations
+
+   Proposals to change the laws and regulations governing the banking industry
+are frequently introduced in Congress, in the state legislatures and before the
+various bank regulatory agencies. The likelihood and timing of any proposals or
+legislation and the impact they might have on the Corporation and its
+subsidiaries cannot be determined at this time.
+
+  Capital and Operational Requirements
+
+   The Federal Reserve Board, the Comptroller and the FDIC have issued
+substantially similar risk-based and leverage capital guidelines applicable to
+United States banking organizations. In addition, these regulatory agencies may
+from time to time require that a banking organization maintain capital above
+the minimum levels, whether because of its financial condition or actual or
+anticipated growth. The Federal Reserve Board risk-based guidelines define a
+three-tier capital framework. Tier 1 capital includes common shareholders'
+equity and qualifying preferred stock, less goodwill and other adjustments.
+Tier 2 capital consists of preferred stock not qualifying as Tier 1 capital,
+mandatory convertible debt, limited amounts of subordinated debt, other
+qualifying term debt and the allowance for credit losses up to 1.25 percent of
+risk-weighted assets. Tier 3 capital includes subordinated debt that is
+unsecured, fully paid,
+
+                                      2
+
+<PAGE>
+
+has an original maturity of at least two years, is not redeemable before
+maturity without prior approval by the Federal Reserve Board and includes a
+lock-in clause precluding payment of either interest or principal if the
+payment would cause the issuing bank's risk-based capital ratio to fall or
+remain below the required minimum. The sum of Tier 1 and Tier 2 capital less
+investments in unconsolidated subsidiaries represents the Corporation's
+qualifying total capital. Risk-based capital ratios are calculated by dividing
+Tier 1 and total capital by risk-weighted assets. Assets and off-balance sheet
+exposures are assigned to one of four categories of risk-weights, based
+primarily on relative credit risk. The minimum Tier 1 capital ratio is four
+percent and the minimum total capital ratio is eight percent. The Corporation's
+Tier 1 and total risk-based capital ratios under these guidelines at December
+31, 2001 were 8.30 percent and 12.67 percent, respectively. At December 31,
+2001, the Corporation had no subordinated debt that qualified as Tier 3 capital.
+
+   The leverage ratio is determined by dividing Tier 1 capital by adjusted
+average total assets. Although the stated minimum ratio is 100 to 200 basis
+points above three percent, banking organizations are required to maintain a
+ratio of at least five percent to be classified as well capitalized. The
+Corporation's leverage ratio at December 31, 2001 was 6.56 percent. The
+Corporation meets its leverage ratio requirement.
+
+   The Federal Deposit Insurance Corporation Improvement Act of 1991
+("FDICIA"), among other things, identifies five capital categories for insured
+depository institutions (well capitalized, adequately capitalized,
+undercapitalized, significantly undercapitalized and critically
+undercapitalized) and requires the respective federal regulatory agencies to
+implement systems for "prompt corrective action" for insured depository
+institutions that do not meet minimum capital requirements within such
+categories. FDICIA imposes progressively more restrictive constraints on
+operations, management and capital distributions, depending on the category in
+which an institution is classified. Failure to meet the capital guidelines
+could also subject a banking institution to capital raising requirements. An
+"undercapitalized" bank must develop a capital restoration plan and its parent
+holding company must guarantee that bank's compliance with the plan. The
+liability of the parent holding company under any such guarantee is limited to
+the lesser of five percent of the bank's assets at the time it became
+"undercapitalized" or the amount needed to comply with the plan. Furthermore,
+in the event of the bankruptcy of the parent holding company, such guarantee
+would take priority over the parent's general unsecured creditors. In addition,
+FDICIA requires the various regulatory agencies to prescribe certain
+non-capital standards for safety and soundness relating generally to operations
+and management, asset quality and executive compensation and permits regulatory
+action against a financial institution that does not meet such standards.
+
+   The various regulatory agencies have adopted substantially similar
+regulations that define the five capital categories identified by FDICIA, using
+the total risk-based capital, Tier 1 risk-based capital and leverage capital
+ratios as the relevant capital measures. Such regulations establish various
+degrees of corrective action to be taken when an institution is considered
+undercapitalized. Under the regulations, a "well capitalized" institution must
+have a Tier 1 risk-based capital ratio of at least six percent, a total
+risk-based capital ratio of at least ten percent and a leverage ratio of at
+least five percent and not be subject to a capital directive order. Under these
+guidelines, each of the Banks was considered well capitalized as of December
+31, 2001.
+
+   Regulators also must take into consideration (a) concentrations of credit
+risk; (b) interest rate risk (when the interest rate sensitivity of an
+institution's assets does not match the sensitivity of its liabilities or its
+off-balance-sheet position); and (c) risks from non-traditional activities, as
+well as an institution's ability to manage those risks, when determining the
+adequacy of an institution's capital. This evaluation will be made as a part of
+the institution's regular safety and soundness examination. In addition, the
+Corporation, and any Bank with significant trading activity, must incorporate a
+measure for market risk in their regulatory capital calculations.
+
+  Distributions
+
+   The Corporation's funds for cash distributions to its stockholders are
+derived from a variety of sources, including cash and temporary investments.
+The primary source of such funds, and funds used to pay principal and interest
+on its indebtedness, is dividends received from the Banks. Each of the Banks is
+subject to various regulatory policies and requirements relating to the payment
+of dividends, including requirements to maintain capital above regulatory
+minimums. The appropriate federal regulatory authority
+
+                                      3
+
+<PAGE>
+
+is authorized to determine under certain circumstances relating to the
+financial condition of a bank or bank holding company that the payment of
+dividends would be an unsafe or unsound practice and to prohibit payment
+thereof.
+
+   In addition, the ability of the Corporation and the Banks to pay dividends
+may be affected by the various minimum capital requirements and the capital and
+non-capital standards established under FDICIA, as described above. The right
+of the Corporation, its stockholders and its creditors to participate in any
+distribution of the assets or earnings of its subsidiaries is further subject
+to the prior claims of creditors of the respective subsidiaries.
+
+  Source of Strength
+
+   According to Federal Reserve Board policy, bank holding companies are
+expected to act as a source of financial strength to each subsidiary bank and
+to commit resources to support each such subsidiary. This support may be
+required at times when a bank holding company may not be able to provide such
+support. Similarly, under the cross-guarantee provisions of the Federal Deposit
+Insurance Act, in the event of a loss suffered or anticipated by the
+FDIC - either as a result of default of a banking subsidiary or related to FDIC
+assistance provided to a subsidiary in danger of default - the other Banks may
+be assessed for the FDIC's loss, subject to certain exceptions.
+
+Competition
+
+   The activities in which the Corporation and its four business segments
+(Consumer and Commercial Banking, Asset Management, Global Corporate and
+Investment Banking, and Equity Investments) engage are highly competitive.
+Generally, the lines of activity and markets served involve competition with
+other banks, thrifts, credit unions and other nonbank financial institutions,
+such as investment banking firms, investment advisory firms, brokerage firms,
+investment companies and insurance companies. The Corporation also competes
+against banks and thrifts owned by nonregulated diversified corporations and
+other entities which offer financial services, located both domestically and
+internationally and through alternative delivery channels such as the Internet.
+The methods of competition center around various factors, such as customer
+services, interest rates on loans and deposits, lending limits and customer
+convenience, such as location of offices.
+
+   The commercial banking business in the various local markets served by the
+Corporation's business segments is highly competitive. The four business
+segments compete with other banks, thrifts, finance companies and other
+businesses which provide similar services. The business segments actively
+compete in commercial lending activities with local, regional and international
+banks and nonbank financial organizations, some of which are larger than
+certain of the Corporation's nonbanking subsidiaries and the Banks. In its
+consumer lending operations, the competitors of the business segments include
+other banks, thrifts, credit unions, finance companies and other nonbank
+organizations offering financial services. In the investment banking,
+investment advisory and brokerage business, the Corporation's nonbanking
+subsidiaries compete with other banking and investment banking firms,
+investment advisory firms, brokerage firms, investment companies, other
+organizations offering similar services and other investment alternatives
+available to investors. The Corporation's mortgage banking units compete with
+banks, thrifts, government agencies, mortgage brokers and other nonbank
+organizations offering mortgage banking services. In the trust business, the
+Banks compete with other banks, investment counselors and insurance companies
+in national markets for institutional funds and insurance agents, thrifts,
+financial counselors and other fiduciaries for personal trust business. The
+Corporation and its four business segments also actively compete for funds. A
+primary source of funds for the Banks is deposits, and competition for deposits
+includes other deposit-taking organizations, such as banks, thrifts, and credit
+unions, as well as money market mutual funds.
+
+   The Corporation's ability to expand into additional states remains subject
+to various federal and state laws. See "Government Supervision and
+Regulation - General" for a more detailed discussion of interstate banking and
+branching legislation and certain state legislation.
+
+Employees
+
+   As of December 31, 2001, there were 142,670 full-time equivalent employees
+within the Corporation and its subsidiaries. Of the foregoing employees, 85,147
+were employed within Consumer and Commercial
+
+                                      4
+
+<PAGE>
+
+Banking, 6,214 were employed within Asset Management, 7,623 were employed
+within Global Corporate and Investment Banking and 226 were employed within
+Equity Investments. The remainder were employed elsewhere within the
+Corporation and its subsidiaries.
+
+   None of the domestic employees within the Corporation is subject to a
+collective bargaining agreement. Management considers its employee relations to
+be good.
+
+Additional Information
+
+   The following information set forth in the Corporation's 2001 Annual Report
+to Stockholders (the "2001 Annual Report") is incorporated herein by reference:
+Business Segment Operations (pages 36 through 43, pages 46 through 48 and pages
+115 through 117), Net Interest Income (pages 43 through 46), Securities (page
+50, page 84 and pages 89 through 90), Loans and Leases (page 49, pages 50
+through 51, pages 54 through 64, pages 84 through 85 and pages 94 through 95),
+Deposits (page 51 and page 98), Short-Term Borrowings (pages 51 through 52 and
+pages 99 through 100), Trading Liabilities (page 91), Market Risk Management
+(pages 64 through 70) and Liquidity Risk Management (page 70).
+
+Item 2. PROPERTIES
+
+   As of December 31, 2001, the principal offices of the Corporation and each
+of its business segments were located in the 60-story Bank of America Corporate
+Center in Charlotte, North Carolina, which is owned by a subsidiary of the
+Corporation. The Corporation occupies approximately 530,000 square feet and
+leases approximately 620,000 square feet to third parties at market rates,
+which represents substantially all of the space in this facility. In addition
+to this facility, the Corporation also leases or owns a significant amount of
+space worldwide. As of December 31, 2001, the Corporation and its subsidiaries
+owned or leased approximately 11,071 locations in 40 states, the District of
+Columbia and 33 foreign countries.
+
+Item 3. LEGAL PROCEEDINGS
+
+   In the ordinary course of business, the Corporation and its subsidiaries are
+routinely defendants in or parties to a number of pending and threatened legal
+actions and proceedings, including actions brought on behalf of various classes
+of claimants. In certain of these actions and proceedings, claims for
+substantial monetary damages are asserted against the Corporation and its
+subsidiaries and certain of these actions and proceedings are based on alleged
+violations of consumer protection, securities, environmental, banking and other
+laws.
+
+   In view of the inherent difficulty of predicting the outcome of such
+matters, the Corporation cannot state what the eventual outcome of pending
+matters will be. However, based on current knowledge, management does not
+believe that liabilities arising from pending litigation, if any, will have a
+material adverse effect on the consolidated financial position, operations or
+liquidity of the Corporation.
+
+   The Corporation and certain present and former officers and directors have
+been named as defendants in a number of actions filed in several federal courts
+that have been consolidated for pretrial purposes before a Missouri federal
+court. The amended complaint in the consolidated actions alleges, among other
+things, that the defendants failed to disclose material facts about the losses
+of the former BankAmerica Corporation ("BankAmerica") relating to D.E. Shaw
+Securities Group, L.P. ("D.E. Shaw") and related entities until mid-October
+1998, in violation of various provisions of federal and state laws. The amended
+complaint also alleges that the proxy statement-prospectus of August 4, 1998
+(the "Proxy Statement"), falsely stated that the merger between NationsBank
+Corporation ("NationsBank") and BankAmerica would be one of equals and alleges
+a scheme to have NationsBank gain control over the newly merged entity. The
+Missouri federal court has certified classes (the "Classes") consisting
+generally of persons who were stockholders of NationsBank or BankAmerica on
+September 30, 1998, or were entitled to vote on the merger, or who purchased or
+acquired securities of the Corporation or its predecessors between August 4,
+1998 and October 13, 1998. The amended complaint substantially survived a
+motion to dismiss. Discovery has been completed. A former NationsBank
+stockholder who opted out of the NationsBank shareholder Class has commenced an
+action in the Missouri federal court (the "Opt-Out Action") asserting claims
+substantially similar to the claims related to D.E. Shaw set forth in the
+consolidated action. Similar class actions have been filed in California state
+courts. Plaintiffs in one such class action, brought on behalf of California
+residents who
+
+                                      5
+
+<PAGE>
+
+owned BankAmerica stock, claim that the Proxy Statement falsely stated that the
+merger would be one of equals. Plaintiffs in that matter have recently been
+included in the federal action as part of the BankAmerica shareholder Class and
+will not be proceeding in California state court. Other California state court
+class actions (the "Other Actions") were consolidated, but have not been
+certified as class actions. The Missouri federal court enjoined prosecution of
+those consolidated cases as a class action. The plaintiffs who were enjoined
+appealed to the United States Court of Appeals for the Eighth Circuit, which
+upheld the district court's injunction. Those plaintiffs have sought review in
+the United States Supreme Court.
+
+   Subsequent to December 31, 2001, the Corporation announced that it had
+reached an agreement in principle to settle the Class actions. The proposed
+settlement provides for payment of $333 million to the NationsBank Classes and
+$157 million to the BankAmerica Classes. The proposed settlement is subject to
+a number of conditions, including judicial approval. The Corporation agreed to
+the proposed settlement without admitting liability. The proposed settlement
+will be paid from existing litigation reserves and insurance and will not have
+an impact on the Corporation's financial results.
+
+   On July 30, 2001, the Securities and Exchange Commission issued a
+cease-and-desist order finding violations of Section 13(a) of the Securities
+Exchange Act of 1934 and Rules 13a-1, 13a-11, 13a-13 and 12b-20 promulgated
+thereunder, with respect to BankAmerica's accounting for, and the disclosures
+relating to, the D.E. Shaw relationship. The Corporation consented to the order
+without admitting or denying the findings. In the Matter of BankAmerica Corp.,
+Exch. Act Rel. No. 44613, Acctg & Audit. Enf. Rel. No. 1249, Admin. Proc. No.
+3-10541.
+
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+   There were no matters submitted to a vote of stockholders during the quarter
+ended December 31, 2001.
+
+Item 4A. EXECUTIVE OFFICERS OF THE REGISTRANT
+
+   Pursuant to the Instructions to Form 10-K and Item 401(b) of Regulation S-K,
+the name, age and position of each current executive officer of the Corporation
+are listed below along with such officer's business experience during the past
+five years. Officers are appointed annually by the Board of Directors at the
+meeting of directors immediately following the annual meeting of stockholders.
+
+   Amy Woods Brinkley, age 46, Chairman, Credit Policy and Deputy Corporate
+Risk Management Executive. Ms. Brinkley was named to her present position in
+July 2001. From August 1999 to July 2001, she served as President, Consumer
+Products; and from 1993 to August 1999, she served as Marketing Group
+Executive. She first became an officer in 1979. She also serves as Chairman,
+Credit Policy, Deputy Corporate Risk Management Executive and a director of
+Bank of America, N.A. Upon the retirement of Mr. Vandiver on March 31, 2002,
+Ms. Brinkley will become Chief Risk Officer.
+
+   Edward J. Brown III, age 53, President, Global Corporate and Investment
+Banking. Mr. Brown was named to his present position in August 2000. From
+September 1998 to August 2000, he served as President, Global Capital Raising
+and Global Capital Markets; from June 1997 to September 1998, he served as
+President, Global Finance; and from 1988 to June 1997, he served as President,
+Corporate Banking. He first became an officer in 1974. He also serves as
+President, Global Corporate and Investment Banking and a director of Bank of
+America, N.A.
+
+   Richard M. DeMartini, age 49, President, Asset Management. Mr. DeMartini was
+named to his present position in February 2001. From January 1999 to February
+2001, he served as Chairman, International Private Client Group, Morgan Stanley
+Dean Witter; and from March 1997 to January 1999, he served as President
+Individual Asset Management Group, Morgan Stanley Dean Witter. From March 1996
+to January 1997, he served as President, Dean Witter Capital, Dean Witter & Co.
+He first became an officer in February 2001. He also serves as President, Asset
+Management of Bank of America, N.A.
+
+   Barbara J. Desoer, age 49, President, Consumer Products. Ms. Desoer was
+named to her present position in July 2001. From September 1999 to July 2001,
+she served as Director of Marketing; from May 1999 to September 1999, she
+served as Banking Group President, California Retail Bank; and from December
+1996 to May 1999, she served as Regional Executive, California Retail Bank. She
+first became an officer in 1977. She also serves as President, Consumer
+Products and a director of Bank of America, N.A.
+
+
+                                      6
+
+<PAGE>
+
+   James H. Hance, Jr., age 57, Vice Chairman and Chief Financial Officer. Mr.
+Hance was named Chief Financial Officer in August 1988, and was named Vice
+Chairman in October 1993. He first became an officer in 1987. He also serves as
+a director of the Corporation and as Vice Chairman and a director of Bank of
+America, N.A.
+
+   Kenneth D. Lewis, age 54, Chairman, President and Chief Executive Officer.
+Mr. Lewis was named Chairman and Chief Executive Officer in April 2001 and
+President in January 1999. From October 1998 to January 1999, he served as
+President, Consumer and Commercial Banking; from 1993 to October 1998, he
+served as President; and from October 1999 to April 2001, he served as Chief
+Operating Officer. He first became an officer in 1971. Mr. Lewis also serves as
+a director of the Corporation and as Chairman, President, Chief Executive
+Officer and a director of Bank of America, N.A.
+
+   R. Eugene Taylor, age 54, President, Consumer and Commercial Banking. Mr.
+Taylor was named to his present position in June 2000. From February 2000 to
+June 2000, he served as President, Central Region; from October 1998 to June
+2000, he served as President, West Region; from December 1997 to October 1998,
+he served as President, Florida; and from 1993 to December 1997, he served as
+President, Mid-Atlantic. He first became an officer in 1970. He also serves as
+President, Consumer and Commercial Banking and a director of Bank of America,
+N.A.
+
+   F. William Vandiver, Jr., age 59, Corporate Risk Management Executive. Mr.
+Vandiver was named to his present position in October 1998. From June 1997 to
+October 1998, he served as Chairman, Corporate Risk Policy; and from January
+1996 to June 1997, he served as President, Global Finance. He first became an
+officer in 1968. He also serves as Vice Chairman and a director of Bank of
+America, N.A. Mr. Vandiver will retire March 31, 2002.
+
+                                      7
+
+<PAGE>
+
+                                    PART II
+
+Item 5. MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED SECURITY HOLDER MATTERS
+
+   The principal market on which the Common Stock is traded is the New York
+Stock Exchange. The Common Stock is also listed on the London Stock Exchange
+and the Pacific Stock Exchange, and certain shares are listed on the Tokyo
+Stock Exchange. The following table sets forth the high and low sales prices of
+the Common Stock on the New York Stock Exchange for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                Quarter  High   Low
+                           <S>  <C>     <C>    <C>
+                                ------  ------ ------
+                           2000 first   $55.19 $42.31
+                                second   61.00  42.98
+                                third    57.63  43.63
+                                fourth   54.75  36.31
+                           2001 first    55.94  45.00
+                                second   62.18  48.65
+                                third    65.54  50.25
+                                fourth   64.99  52.10
+</TABLE>
+
+   As of March 1, 2002, there were 244,009 record holders of Common Stock.
+During 2000 and 2001, the Corporation paid dividends on the Common Stock on a
+quarterly basis. The following table sets forth dividends declared per share of
+Common Stock for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                  Quarter Dividend
+                                  ------- --------
+                             <S>  <C>     <C>
+                             2000 first     $.50
+                                  second     .50
+                                  third      .50
+                                  fourth     .56
+                             2001 first      .56
+                                  second     .56
+                                  third      .56
+                                  fourth     .60
+</TABLE>
+
+   For additional information regarding the Corporation's ability to pay
+dividends, see "Government Supervision and Regulation - Distributions". In
+addition, Note 14 (page 106) of the Notes to Consolidated Financial Statements
+in the 2001 Annual Report is incorporated herein by reference.
+
+Item 6. SELECTED FINANCIAL DATA
+
+   The information set forth in Table 1 (page 35) and Table 25 (page 71) of the
+2001 Annual Report is incorporated herein by reference.
+
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+       RESULTS OF OPERATIONS
+
+   The information set forth under the captions "Management's Discussion and
+Analysis of Results of Operations and Financial Condition" (pages 33 through
+75) and "Report of Management" (page 76) in the 2001 Annual Report is
+incorporated herein by reference.
+
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+   The information set forth under the caption "Management's Discussion and
+Analysis of Results of Operations and Financial Condition-Market Risk
+Management" (pages 64 through 70) in the 2001 Annual Report is incorporated
+herein by reference.
+
+                                      8
+
+<PAGE>
+
+Item 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+   The following information set forth in the 2001 Annual Report is
+incorporated herein by reference: the Consolidated Financial Statements and
+Notes to Consolidated Financial Statements of Bank of America Corporation and
+Subsidiaries, together with the report thereon of PricewaterhouseCoopers
+LLP dated January 18, 2002 (pages 77 through 119).
+
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+       FINANCIAL DISCLOSURE
+
+   There were no changes in or disagreements with accountants on accounting and
+financial disclosure.
+
+                                   PART III
+Item 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+   Information included under the following captions in the Corporation's proxy
+statement relating to its 2002 annual meeting of stockholders (the "2002 Proxy
+Statement") is incorporated herein by reference:
+
+ .  "The Nominees" on pages 2 through 5;
+ .  "Section 16(a) Beneficial Ownership Reporting Compliance" on page 8; and
+ .  "Special Compensation Arrangements-Employment Agreements with Certain
+   Executive Officers" and "- Consulting Agreement with Mr. McColl" on pages 14
+   and 15.
+
+   Additional information required by Item 10 with respect to executive
+officers is set forth in Part I, Item 4A hereof.
+
+Item 11. EXECUTIVE COMPENSATION
+
+   Information included under the following captions in the 2002 Proxy
+Statement is incorporated herein by reference:
+
+ .  "Director Compensation" on pages 8 and 9;
+ .  "Executive Compensation" on pages 9 through 14;
+ .  "Special Compensation Arrangements" on pages 14 and 15;
+ .  "Compensation Committee Interlocks and Insider Participation" on page 20; and
+ .  "Certain Transactions" on page 20.
+
+Item 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+   Information included under the following caption in the 2002 Proxy Statement
+is incorporated herein by reference:.
+
+ .  "Stock Ownership" on pages 6 through 8.
+
+Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+   Information included under the following captions in the 2002 Proxy
+Statement is incorporated herein by reference:
+
+ .  "Compensation Committee Interlocks and Insider Participation" on page 20; and
+ .  "Certain Transactions" on page 20.
+
+                                      9
+
+<PAGE>
+
+                                    PART IV
+
+Item 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+<TABLE>
+<C> <S>                                                                                        <C>
+
+a.  The following documents are filed as part of this report:
+                                                                                               Pages in
+                                                                                                Annual
+                                                                                               Report*
+                                                                                               --------
+
+(1)   Financial Statements:
+
+       Report of Independent Accountants......................................................     77
+
+       Consolidated Statement of Income for the years ended December 31, 2001, 2000 and
+         1999.................................................................................      78
+
+       Consolidated Balance Sheet at December 31, 2001 and 2000...............................     79
+
+       Consolidated Statement of Changes in Shareholders' Equity for the years ended
+         December 31, 2001, 2000 and 1999.....................................................      80
+
+       Consolidated Statement of Cash Flows for the years ended December 31, 2001, 2000 and
+         1999.................................................................................      81
+
+       Notes to Consolidated Financial Statements.............................................  82-119
+
+       *Incorporated by reference from the indicated pages of the 2001 Annual Report.
+
+(2)   Schedules:
+
+       None
+
+b.  The following reports on Form 8-K were filed by the registrant during the quarter ended
+    December 31, 2001:
+
+    Current Report on Form 8-K dated October 3, 2001 and filed October 10, 2001, Items 5 and
+    7.
+
+    Current Report on Form 8-K dated and filed October 15, 2001, Items 5, 7 and 9.
+
+    Current Report on Form 8-K dated and filed November 28, 2001, Item 7.
+
+    Current Report on Form 8-K dated December 6, 2001 and filed December 14, 2001, Items 5
+    and 7.
+
+c.  The exhibits filed as part of this report and exhibits incorporated herein by reference to
+    other documents are listed in the Index to Exhibits to this Annual Report on Form 10-K
+    (pages E-1 through E-6, including executive compensation plans and arrangements which
+    are identified separately by asterisk).
+</TABLE>
+
+   With the exception of the information expressly incorporated herein by
+   reference, the 2001 Annual Report and the 2002 Proxy Statement are not to be
+   deemed filed as part of this Annual Report on Form 10-K.
+
+                                      10
+
+<PAGE>
+
+                                  SIGNATURES
+
+   Pursuant to the requirements of Section 13 of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+Date: March 27, 2002
+                                               BANK OF AMERICA CORPORATION
+
+                                               By:    */s/  KENNETH D. LEWIS
+                                                   -----------------------------
+                                                         Kenneth D. Lewis
+                                                   Chairman, President and Chief
+                                                         Executive Officer
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+          Signature                       Title                  Date
+          ---------                       -----                  ----
+
+   */s/  KENNETH D. LEWIS     Chairman, President, Chief    March 27, 2002
+-----------------------------   Executive Officer and
+      Kenneth D. Lewis          Director (Principal
+                                Executive Officer)
+
+  */s/  JAMES H. HANCE, JR.   Vice Chairman, Chief          March 27, 2002
+-----------------------------   Financial Officer and
+     James H. Hance, Jr.        Director (Principal
+                                Financial Officer)
+
+     */s/  MARC D. OKEN       Executive Vice President and  March 27, 2002
+-----------------------------   Principal Financial
+        Marc D. Oken            Executive (Principal
+                                Accounting Officer)
+
+     */s/  JOHN R. BELK       Director                      March 27, 2002
+-----------------------------
+        John R. Belk
+
+   */s/  CHARLES W. COKER     Director                      March 27, 2002
+-----------------------------
+      Charles W. Coker
+
+    */s/  FRANK DOWD, IV      Director                      March 27, 2002
+-----------------------------
+       Frank Dowd, IV
+
+ */s/  KATHLEEN F. FELDSTEIN  Director                      March 27, 2002
+-----------------------------
+    Kathleen F. Feldstein
+
+      */s/  PAUL FULTON       Director                      March 27, 2002
+-----------------------------
+         Paul Fulton
+
+    */s/  DONALD E. GUINN     Director                      March 27, 2002
+-----------------------------
+       Donald E. Guinn
+
+     */s/  C. RAY HOLMAN      Director                      March 27, 2002
+-----------------------------
+        C. Ray Holman
+
+   */s/  WALTER E. MASSEY     Director                      March 27, 2002
+-----------------------------
+      Walter E. Massey
+
+                                      11
+
+<PAGE>
+
+          Signature                       Title                  Date
+          ---------                       -----                  ----
+
+  */s/  C. STEVEN MCMILLAN    Director                      March 27, 2002
+-----------------------------
+     C. Steven McMillan
+
+ */s/  PATRICIA E. MITCHELL   Director                      March 27, 2002
+-----------------------------
+    Patricia E. Mitchell
+
+ */s/  O. TEMPLE SLOAN, JR.   Director                      March 27, 2002
+-----------------------------
+    O. Temple Sloan, Jr.
+
+ */s/  MEREDITH R. SPANGLER   Director                      March 27, 2002
+-----------------------------
+    Meredith R. Spangler
+
+    */s/  RONALD TOWNSEND     Director                      March 27, 2002
+-----------------------------
+       Ronald Townsend
+
+----------------------------- Director                      March   , 2002
+     Peter V. Ueberroth
+
+    */s/  JACKIE M. WARD      Director                      March 27, 2002
+-----------------------------
+       Jackie M. Ward
+
+  */s/  VIRGIL R. WILLIAMS    Director                      March 27, 2002
+-----------------------------
+     Virgil R. Williams
+
+*By:   /s/  CHARLES M. BERGER
+-----------------------------
+      Charles M. Berger
+      Attorney-in-Fact
+
+
+                                      12
+
+<PAGE>
+
+                               INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+Exhibit No.         Description
+----------- --------------------------------------------------------------------------------
+<C>         <S>
+     3(a)   Amended and Restated Certificate of Incorporation of registrant, as in effect
+            on the date hereof, incorporated by reference to Exhibit 99.1 of registrant's
+            Current Report on Form 8-K filed May 7, 1999.
+      (b)   Amended and Restated Bylaws of registrant, as in effect on the date hereof,
+            incorporated by reference to Exhibit 99.2 of registrant's Current Report on
+            Form 8-K filed May 7, 1999.
+     4(a)   Specimen certificate of registrant's Common Stock, incorporated by reference
+            to Exhibit 4.13 of registrant's Registration No. 333-83503.
+      (b)   Specimen certificate of registrant's ESOP Convertible Preferred Stock, Series
+            C, incorporated by reference to Exhibit 4(c) of registrant's 1991 Annual
+            Report on Form 10-K (the "1991 10-K").
+      (c)   Specimen certificate of registrant's 7% Cumulative Redeemable Preferred
+            Stock, Series B, incorporated by reference to Exhibit 4(c) of registrant's 1998
+            Annual Report on Form 10-K (the "1998 10-K").
+      (d)   Indenture dated as of August 1, 1982 between registrant (successor to
+            NationsBank Corporation, formerly known as NCNB Corporation) and U.S.
+            Bank Trust National Association (successor to Morgan Guaranty Trust
+            Company of New York), pursuant to which registrant issued its 7 3/4%
+            Debentures, due 2002, incorporated by reference to Exhibit 4.2 of registrant's
+            Registration No. 2-78530; First Supplemental Indenture thereto dated as of
+            September 18, 1998, incorporated by reference to Exhibit 4(e) of the 1998 10-
+            K; and Second Supplemental Indenture thereto dated as of July 16, 2001
+            between registrant, U.S. Bank Trust National Association, as Prior Trustee,
+            and the Bank of New York, as Successor Trustee.
+      (e)   Indenture dated as of September 1, 1989 between registrant (successor to
+            NationsBank Corporation, formerly known as NCNB Corporation) and The
+            Bank of New York, pursuant to which registrant issued its 9 3/8%
+            Subordinated Notes, due 2009; its 10.20% Subordinated Notes, due 2015; and
+            its 8 1/8% Subordinated Notes, due 2002, incorporated by reference to Exhibit
+            4.1 of registrant's Registration No. 33-30717; and First Supplemental
+            Indenture thereto dated as of August 28, 1998, incorporated by reference to
+            Exhibit 4(f) of the 1998 10-K.
+      (f)   Indenture dated as of November 1, 1992 between registrant (successor to
+            NationsBank Corporation) and The Bank of New York, pursuant to which
+            registrant issued its 6 7/8% Subordinated Notes, due 2005, incorporated by
+            reference to Exhibit 4.1 of registrant's Amendment to Application or Report
+            on Form 8-K dated March 1, 1993; First Supplemental Indenture thereto
+            dated as of July 1, 1993 pursuant to which registrant issued its Subordinated
+            Medium-Term Notes; its 6 1/2% Subordinated Notes, due 2003; and its 7 3/4%
+            Subordinated Notes, due 2004, incorporated by reference to Exhibit 4.4 of
+            registrant's Current Report on Form 8-K dated July 6, 1993; and Second
+            Supplemental Indenture thereto dated as of August 28, 1998, incorporated by
+            reference to Exhibit 4(i) of the 1998 10-K.
+      (g)   Indenture dated as of January 1, 1995 between registrant (successor to
+            NationsBank Corporation) and U.S. Bank Trust National Association
+            (successor to BankAmerica National Trust Company), pursuant to which
+            registrant issued its 7% Senior Notes, due 2003; its 6 3/8% Senior Notes, due
+            2005; its 6 1/8% Senior Notes, due 2004; its 5 7/8% Senior Notes, due 2009; its
+            6 5/8% Senior Notes, due 2004; its 7 7/8% Senior Notes, due 2005; its 7 1/8%
+            Senior Notes, due 2006; its 4 3/4% Senior Notes, due 2006; its 5 1/4% Senior
+            Notes, due 2007; and its Senior Medium-Term Notes, Series D, E, F, G, H
+            and I, incorporated by reference to Exhibit 4.1 of registrant's Registration No.
+            33-57533; First Supplemental Indenture thereto dated as of September 18,
+            1998, incorporated by reference to Exhibit 4.3 of registrant's Current Report
+            on Form 8-K filed November 18, 1998; and Second Supplemental Indenture
+            thereto dated as of May 7, 2000 between registrant, U.S. Bank Trust
+            National Association, as Prior Trustee, and the Bank of New York, as
+            Successor Trustee, incorporated by reference to Exhibit 4.4 of registrant's
+            Current Report on Form 8-K dated June 5, 2001.
+</TABLE>
+
+                                      E-1
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Exhibit No.         Description
+----------- -------------------------------------------------------------------------------
+<C>         <S>
+     (h)    Indenture dated as of January 1, 1995 between registrant (successor to
+            NationsBank Corporation) and The Bank of New York, pursuant to which
+            registrant issued its 7 5/8% Subordinated Notes, due 2005; its 7 3/4%
+            Subordinated Notes, due 2015; its 7 1/4% Subordinated Notes, due 2025; its
+            6 1/2% Subordinated Notes, due 2006; its 7 1/2% Subordinated Notes, due 2006;
+            its 7.80% Subordinated Notes, due 2016; its 6 3/8% Subordinated Notes, due
+            2008; its 6.80% Subordinated Notes, due 2028; its 6.60% Subordinated Notes,
+            due 2010; its 7.80% Subordinated Notes due 2010; its 7.40% Subordinated
+            Notes, due 2011; and its Subordinated Medium-Term Notes, Series D, E, F,
+            G, H and I, incorporated by reference to Exhibit 4.8 of registrant's
+            Registration No. 33-57533; and First Supplemental Indenture thereto dated
+            as of August 28, 1998, incorporated by reference to Exhibit 4.8 of registrant's
+            Current Report on Form 8-K filed November 18, 1998.
+     (i)    Amended and Restated Agency Agreement dated as of July 27, 2001 between
+            registrant, Bank of America, N.A., The Chase Manhattan Bank, London
+            Branch, and The Chase Manhattan Bank Luxembourg S.A.
+     (j)    Issuing and Paying Agency Agreement dated as of August 1, 2000 between
+            Bank of America, N.A., as Issuer, and Bankers Trust Company, as Issuing
+            and Paying Agent, incorporated by reference to Exhibit 4(m) of registrant's
+            2000 Annual Report on Form 10-K (the ''2000 10-K").
+     (k)    Indenture dated as of November 27, 1996 between registrant (successor to
+            NationsBank Corporation) and The Bank of New York, incorporated by
+            reference to Exhibit 4.10 of registrant's Registration No. 333-15375.
+     (l)    First Supplemental Indenture dated as of December 4, 1996 to the Indenture
+            dated as of November 27, 1996 between registrant (successor to NationsBank
+            Corporation) and The Bank of New York pursuant to which registrant issued
+            its 7.84% Junior Subordinated Deferrable Interest Notes due 2026,
+            incorporated by reference to Exhibit 4.3 of registrant's Current Report on
+            Form 8-K dated November 27, 1996.
+     (m)    Second Supplemental Indenture dated as of December 17, 1996 to the
+            Indenture dated as of November 27, 1996 between registrant (successor to
+            NationsBank Corporation) and The Bank of New York pursuant to which
+            registrant issued its 7.83% Junior Subordinated Deferrable Interest Notes
+            due 2026, incorporated by reference to Exhibit 4.3 of registrant's Current
+            Report on Form 8-K dated December 10, 1996.
+     (n)    Third Supplemental Indenture dated as of February 3, 1997 to the Indenture
+            dated as of November 27, 1996 between registrant (successor to NationsBank
+            Corporation) and The Bank of New York pursuant to which registrant issued
+            its Floating Rate Junior Subordinated Deferrable Interest Notes due 2027,
+            incorporated by reference to Exhibit 4.3 of registrant's Current Report on
+            Form 8-K dated January 22, 1997.
+     (o)    Fourth Supplemental Indenture dated as of April 22, 1997 to the Indenture
+            dated as of November 27, 1996 between registrant (successor to NationsBank
+            Corporation) and The Bank of New York pursuant to which registrant issued
+            its 8 1/4% Junior Subordinated Deferrable Interest Notes, due 2027,
+            incorporated by reference to Exhibit 4.3 of registrant's Current Report on
+            Form 8-K dated April 15, 1997.
+     (p)    Fifth Supplemental Indenture dated as of August 28, 1998 to the Indenture
+            dated as of November 27, 1996 between registrant and The Bank of New
+            York, incorporated by reference to Exhibit 4(t) of the 1998 10-K.
+     (q)    Indenture dated as of November 27, 1996, between Barnett Banks, Inc. and
+            Bank One (successor to The First National Bank of Chicago), as Trustee, and
+            First Supplemental Indenture dated as of January 9, 1998, among
+            NationsBank Corporation, NB Holdings Corporation, Barnett Banks, Inc.
+            and The First National Bank of Chicago (predecessor to Bank One), as
+            Trustee, pursuant to which registrant (as successor to NationsBank
+            Corporation) issued its 8.06% Junior Subordinated Debentures, due 2026,
+            incorporated by reference to Exhibit 4(u) of registrant's 1997 Annual Report
+            on Form 10-K (the "1997 10-K").
+</TABLE>
+
+                                      E-2
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Exhibit No.         Description
+----------- ---------------------------------------------------------------------------
+<C>         <S>
+     (r)    Indenture dated as of September 1, 1990 between the former BankAmerica
+            Corporation and Chase Manhattan Bank and Trust Company, N. A.
+            (formerly Manufacturers Hanover Trust Company of California), pursuant to
+            which registrant (as successor to the former BankAmerica Corporation)
+            issued its 10.00% Subordinated Notes due 2003 and its 9.20% Subordinated
+            Notes due 2003; and First Supplemental Indenture thereto dated as of
+            September 15, 1998, incorporated by reference to Exhibit 4(v) of the 1998
+            10-K.
+     (s)    Indenture dated as of November 1, 1991 between the former BankAmerica
+            Corporation and Chase Manhattan Bank and Trust Company, N. A.
+            (formerly Manufacturers Hanover Trust Company of California), pursuant to
+            which registrant (as successor to the former BankAmerica Corporation)
+            issued its 8.125% Subordinated Notes due 2002; its 7.75% Subordinated
+            Notes due 2002; its 8.375% Subordinated Notes due 2002; its 7.50%
+            Subordinated Notes due 2002; its 7.20% Subordinated Notes due 2002; its
+            7.875% Subordinated Notes due 2002; its 6.85% Subordinated Notes due
+            2003; its 6.875% Subordinated Notes due 2003; its Floating Subordinated
+            Notes due 2003; its 7.20% Subordinated Notes due 2006; its 7.625%
+            Subordinated Notes due 2004; its 6.75% Subordinated Notes due 2005; its
+            6.20% Subordinated Notes due 2006; its 7.125% Subordinated Notes due
+            2006; its 6.625% Subordinated Notes due 2007; its 6.625% Subordinated
+            Notes due 2007; its 7.125% Subordinated Notes due 2009; its 7.125%
+            Subordinated Notes due 2011; and its 6.25% Subordinated Notes due 2008;
+            First Supplemental Indenture thereto dated as of September 8, 1992; and
+            Second Supplemental Indenture thereto dated as of September 15, 1998,
+            incorporated by reference to Exhibit 4(w) of the 1998 10-K.
+     (t)    Indenture dated as of November 1, 1991 between the former BankAmerica
+            Corporation and U.S. Bank Trust, N. A. (successor to Bankers Trust
+            Company of California, National Association, and First Trust of California,
+            National Association), pursuant to which registrant (as successor to the
+            former BankAmerica Corporation) issued its Senior Medium-Term Notes,
+            Series H and I; First Supplemental Indenture thereto dated as of August 1,
+            1994; and Second Supplemental Indenture thereto dated as of September 30,
+            1998, incorporated by reference to Exhibit 4(x) of the 1998 10-K.
+     (u)    Second Amended and Restated Agency Agreement dated as of November 15,
+            1996 between the former BankAmerica Corporation and U.S. Bank Trust
+            National Association (successor to First Trust of New York, National
+            Association), pursuant to which registrant (as successor to the former
+            BankAmerica Corporation) issued its Senior and Subordinated Euro
+            Medium-Term Notes; and Amendment thereto dated as of September 30,
+            1998, incorporated by reference to Exhibit 4(y) of the 1998 10-K.
+     (v)    Junior Subordinated Indenture dated as of November 27, 1996 between the
+            former BankAmerica Corporation and Bankers Trust Company, pursuant to
+            which registrant (as successor to the former BankAmerica Corporation)
+            issued its 8.07% Junior Subordinated Debentures Series A due 2026; and its
+            7.70% Junior Subordinated Debentures Series B due 2026; and First
+            Supplemental Indenture thereto dated as of September 15, 1998,
+            incorporated by reference to Exhibit 4(z) of the 1998 10-K.
+     (w)    Junior Subordinated Indenture dated as of December 20, 1996 between the
+            former BankAmerica Corporation and Bankers Trust Company, pursuant to
+            which registrant (as successor to the former BankAmerica Corporation)
+            issued its 7.75% Junior Subordinated Deferrable Interest Debentures,
+            Series 1 due 2026; its 8.00% Junior Subordinated Deferrable Interest
+            Debentures, Series 2 due 2026; its Floating Rate Junior Subordinated
+            Deferrable Interest Debentures, Series 3 due 2027; and its 7.00% Junior
+            Subordinated Deferrable Interest Debentures, Series 4 due 2028; and First
+            Supplemental Indenture thereto dated as of September 15, 1998,
+            incorporated by reference to Exhibit 4(aa) of the 1998 10-K.
+</TABLE>
+
+                                      E-3
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Exhibit No.            Description
+-------------- --------------------------------------------------------------------------------
+<C>            <S>                                                                                      <C>
+     (x)       Restated Senior Indenture dated as of January 1, 2001 between registrant
+               and The Bank of New York, pursuant to which registrant issued its Senior
+               InterNotes/SM/, incorporated by reference to Exhibit 4.1 of registrant's
+               Registration No. 333-47222.
+     (y)       Restated Subordinated Indenture dated as of January 1, 2001 between
+               registrant and The Bank of New York, pursuant to which registrant issued
+               its Subordinated InterNotes/SM/, incorporated by reference to Exhibit 4.2 of
+               registrant's Registration No. 333-47222.
+     (z)       Amended and Restated Senior Indenture dated as of July 1, 2001 between
+               registrant and The Bank of New York, pursuant to which registrant issued
+               its Senior InterNotes/SM/, incorporated by reference to Exhibit 4.1 of
+               registrant's Registration No. 333-65750.
+     (aa)      Amended and Restated Subordinated Indenture dated as of July 1, 2001
+               between registrant and The Bank of New York, pursuant to which registrant
+               issued its Subordinated InterNotes/SM/, incorporated by reference to
+               Exhibit 4.2 of registrant's Registration No. 333-65750.
+     (bb)      Restated Indenture dated as of November 1, 2001 between registrant and
+               The Bank of New York, incorporated by reference to Exhibit 4.10 of
+               registrant's Registration No. 333-70984.
+     (cc)      First Supplemental Indenture dated as of December 14, 2001 to the Restated
+               Indenture dated as of November 1, 2001 between registrant and The Bank of
+               New York pursuant to which registrant issued its 7% Junior Subordinated
+               Notes due 2031, incorporated by reference to Exhibit 4.3 of registrant's
+               Current Report on Form 8-K dated December 6, 2001.
+     (dd)      Second Supplemental Indenture dated as of January 31, 2002 to the Restated
+               Indenture dated as of November 1, 2001 between registrant and The Bank of
+               New York pursuant to which registrant issued its 7% Junior Subordinated
+               Notes due 2032, incorporated by reference to Exhibit 4.3 of registrant's
+               Current Report on Form 8-K dated January 24, 2002.
+
+The registrant has other long-term debt agreements, but these are not material in amount. Copies of
+these agreements will be furnished to the Commission on request.
+
+    10(a)      NationsBank Corporation and Designated Subsidiaries Directors' Retirement                *
+               Plan, incorporated by reference to Exhibit 10(f) of registrant's 1990 Annual
+               Report on Form 10-K (the "1990 10-K"); Amendment thereto dated as of
+               September 28, 1994, incorporated by reference to Exhibit 10(i) of registrant's
+               1994 Annual Report on Form 10-K (the "1994 10-K); and Amendment thereto
+               dated as of April 24, 1996, incorporated by reference to Exhibit 10(g) of
+               registrant's 1996 Annual Report on Form 10-K (the "1996 10-K").
+      (b)      NationsBank Corporation and Designated Subsidiaries Supplemental                         *
+               Executive Retirement Plan, incorporated by reference to Exhibit 10(j) of the
+               1994 10-K; Amendment thereto dated as of June 28, 1989, incorporated by
+               reference to Exhibit 10(g) of registrant's 1989 Annual Report on Form 10-K
+               (the "1989 10-K"); Amendment thereto dated as of June 27, 1990,
+               incorporated by reference to Exhibit 10(g) of the 1990 10-K; Amendment
+               thereto dated as of July 21, 1991, incorporated by reference to Exhibit 10(bb)
+               of the 1991 10-K; Amendments thereto dated as of December 3, 1992 and
+               December 15, 1992, incorporated by reference to Exhibit 10(l) of registrant's
+               1992 Annual Report on Form 10-K (the "1992 10-K"); Amendment thereto
+               dated as of September 28, 1994, incorporated by reference to Exhibit 10(j) of
+               the 1994 10-K; Amendments thereto dated March 27, 1996 and June 25,
+               1997, incorporated by reference to Exhibit 10(c) of the 1997 10-K;
+               Amendments thereto dated April 10, 1998, June 24, 1998 and October 1,
+               1998, incorporated by reference to Exhibit 10(b) of the 1998 10-K;
+               Amendment thereto dated December 14, 1999, incorporated by reference to
+               Exhibit 10(b) of registrant's 1999 Annual Report on Form 10-K (the "1999
+               10-K"); and Amendment thereto dated as of March 28, 2001.
+</TABLE>
+
+                                      E-4
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Exhibit No.         Description
+----------- -------------------------------------------------------------------------------
+<C>         <S>                                                                                     <C>
+     (c)    NationsBank Corporation and Designated Subsidiaries Deferred                            *
+            Compensation Plan for Key Employees, incorporated by reference to Exhibit
+            10(k) of the 1994 10-K; Amendment thereto dated as of June 28, 1989,
+            incorporated by reference to Exhibit 10(h) of the 1989 10-K; Amendment
+            thereto dated as of June 27, 1990, incorporated by reference to Exhibit 10(h)
+            of the 1990 10-K; Amendment thereto dated as of July 21, 1991, incorporated
+            by reference to Exhibit 10(bb) of the 1991 10-K; Amendment thereto dated as
+            of December 3, 1992, incorporated by reference to Exhibit 10(m) of the 1992
+            10-K; and Amendments thereto dated April 10, 1998 and October 1, 1998,
+            incorporated by reference to Exhibit 10(b) of the 1998 10-K.
+     (d)    Bank of America Pension Restoration Plan, as amended and restated                       *
+            effective July 1, 1998.
+     (e)    Split Dollar Agreement dated as of February 1, 1990 between registrant and              *
+            Hugh L. McColl III, as Trustee for the benefit of Hugh L. McColl, Jr. and
+            Jane S. McColl, incorporated by reference to Exhibit 10(s) of the 1990 10-K.
+     (f)    NationsBank Corporation Benefit Security Trust dated as of June 27, 1990,               *
+            incorporated by reference to Exhibit 10(t) of the 1990 10-K; First Supplement
+            thereto dated as of November 30, 1992, incorporated by reference to Exhibit
+            10(v) of the 1992 10-K; and Trustee Removal/Appointment Agreement dated
+            as of December 19, 1995, incorporated by reference to Exhibit 10(o) of
+            registrant's 1995 Annual Report on Form 10-K.
+     (g)    Bank of America 401(k) Restoration Plan, as amended and restated effective              *
+            July 1, 2000.
+     (h)    Bank of America Executive Incentive Compensation Plan, as amended and                   *
+            restated effective April 1, 1998, incorporated by reference to Exhibit 10(h) of
+            the 1998 10-K.
+     (i)    Bank of America Director Deferral Plan, as amended and restated effective               *
+            January 27, 1999, incorporated by reference to Exhibit 10(i) of the 1998 10-K.
+     (j)    Bank of America Corporation Directors' Stock Plan, as amended and restated              *
+            effective January 1, 2002.
+     (k)    Amendment to Restricted Stock Award Plan Agreements with Hugh L.                        *
+            McColl, Jr. dated December 20, 1996, incorporated by reference to Exhibit
+            10(x) of the 1996 10-K.
+     (l)    Bank of America Corporation Key Employee Stock Plan, as amended and                     *
+            restated effective September 24, 1998, incorporated by reference to Exhibit
+            10(a) of registrant's Quarterly Report on Form 10-Q dated November 16,
+            1998 (the "Third Quarter 1998 10-Q").
+     (m)    BankAmerica Corporation and Bank of America National Trust and Savings                  *
+            Association Deferred Compensation Plan for Directors, as amended and
+            restated, incorporated by reference to Exhibit 10(b) of the Third Quarter 1998
+            10-Q.
+     (n)    Split Dollar Life Insurance Agreement dated as of October 15, 1998 between              *
+            registrant and NationsBank, N. A., as Trustee under that certain Irrevocable
+            Trust Agreement dated October 2, 1998, by and between Hugh L. McColl, Jr.,
+            as Grantor, and NationsBank, N. A., as Trustee, incorporated by reference to
+            Exhibit 10(cc) of the 1998 10-K; and Amendment thereto dated January 24,
+            2002.
+     (o)    Split Dollar Life Insurance Agreement dated as of October 16, 1998 between              *
+            registrant and NationsBank, N. A., as Trustee under that certain Irrevocable
+            Trust Agreement No. 2 dated October 1, 1998, by and between James H.
+            Hance, Jr., as Grantor, and NationsBank, N. A., as Trustee, incorporated by
+            reference to Exhibit 10(dd) of the 1998 10-K; and Amendment thereto dated
+            January 24, 2002.
+     (p)    Split Dollar Life Insurance Agreement dated as of September 28, 1998                    *
+            between registrant and J. Steele Alphin, as Trustee under that certain
+            Irrevocable Trust Agreement dated June 23, 1998, by and between Kenneth
+            D. Lewis, as Grantor, and J. Steele Alphin, as Trustee, incorporated by
+            reference to Exhibit 10(ee) of the 1998 10-K; and Amendment thereto dated
+            January 24, 2002.
+</TABLE>
+
+                                      E-5
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+Exhibit No.         Description
+----------- ------------------------------------------------------------------------------
+<C>         <S>                                                                                    <C>
+      (q)   Employment Agreement dated as of April 10, 1998 between registrant and                 *
+            James H. Hance, Jr., incorporated by reference to Exhibit 10.4 of registrant's
+            Registration No. 333-60553; and Amendment thereto dated January 24,
+            2001, incorporated by reference to Exhibit 10(q) of the 2000 10-K.
+      (r)   Employment Agreement dated as of April 10, 1998 between registrant and                 *
+            Kenneth D. Lewis, incorporated by reference to Exhibit 10.5 of registrant's
+            Registration No. 333-60553; and Amendment thereto dated January 24,
+            2001, incorporated by reference to Exhibit 10(r) of the 2000 10-K.
+      (s)   Split Dollar Life Insurance Agreement dated as of August, 1999 between                 *
+            registrant and Bank of America, N.A., as Trustee under The Vandiver Family
+            Trust Dated August 12, 1999, incorporated by reference to Exhibit 10(dd) of
+            the 1999 10-K; and Amendment thereto dated January 24, 2002.
+      (t)   Global Corporate and Investment Banking Equity Incentive Plan, as                      *
+            established effective January 1, 2000, incorporated by reference to Exhibit
+            10(t) of the 2000 10-K.
+      (u)   Consulting Agreement dated January 24, 2001 between registrant and Hugh                *
+            L. McColl, Jr., incorporated by reference to Exhibit 10(u) of the 2000 10-K.
+      (v)   Summary of the Corporate Management Incentive Plan.                                    *
+      (w)   Relocation Agreement dated October 5, 1998 between registrant and Edward               *
+            J. Brown III, incorporated by reference to Exhibit 10(w) of the 2000 10-K.
+      (x)   Employment Agreement dated April 24, 2001 between registrant and Richard               *
+            M. DeMartini.
+    12(a)   Ratio of Earnings to Fixed Charges.
+      (b)   Ratio of Earnings to Fixed Charges and Preferred Dividends.
+    13      2001 Annual Report to Stockholders. This exhibit contains only those
+            portions of the 2001 Annual Report that are incorporated by reference herein.
+    21      List of Subsidiaries.
+    23      Consent of PricewaterhouseCoopers LLP.
+    24(a)   Power of Attorney.
+      (b)   Corporate Resolution.
+</TABLE>
+----------
+ * Denotes executive compensation plan or arrangement.
+
+                                      E-6
+
+</TEXT>
+</DOCUMENT>
