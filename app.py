@@ -186,41 +186,68 @@ def main():
         
         with tab2:
             st.header("🏷️ Named Entity Recognition")
-            
-            # spaCy visualization
+
+            # spaCy visualization first
             st.subheader("spaCy NER Visualization")
             models = ["en_core_web_sm"]
             spacy_streamlit.visualize(models, text_input)
-            
-            # Custom financial entity extraction
-            st.subheader("💰 Financial Entity Extraction")
-            
-            if st.button("Extract Financial Entities"):
-                with st.spinner("Extracting financial entities..."):
+
+            # ---- Custom Extraction + Interactive Explorer ----
+            st.subheader("💰 Financial Entity Extraction & Explorer")
+
+            if st.button("Extract & Explore Entities"):
+                with st.spinner("Processing entities ..."):
                     entities = entity_extractor.comprehensive_entity_extraction(text_input)
-                    
-                    # Display entities in organized sections
-                    col1, col2 = st.columns(2)
-                    
-                    with col1:
-                        st.subheader("💵 Financial Metrics")
-                        if entities['financial_metrics']['revenue_metrics']:
-                            for metric in entities['financial_metrics']['revenue_metrics']:
-                                st.markdown(f'<div class="financial-entity">💰 Revenue: {metric["value"]}</div>', unsafe_allow_html=True)
-                        
-                        if entities['financial_metrics']['profitability_metrics']:
-                            for metric in entities['financial_metrics']['profitability_metrics']:
-                                st.markdown(f'<div class="financial-entity">📈 Profit: {metric["value"]}</div>', unsafe_allow_html=True)
-                    
-                    with col2:
-                        st.subheader("📅 Temporal Entities")
-                        if entities['temporal_entities']['dates']:
-                            for date in entities['temporal_entities']['dates'][:5]:
-                                st.markdown(f'<div class="financial-entity">📅 {date}</div>', unsafe_allow_html=True)
-                        
-                        if entities['temporal_entities']['fiscal_periods']:
-                            for period in entities['temporal_entities']['fiscal_periods']:
-                                st.markdown(f'<div class="financial-entity">📊 {period}</div>', unsafe_allow_html=True)
+
+                # ---------- Entity Frequency Overview ----------
+                st.markdown("### 📊 Entity Overview & Frequency")
+
+                entity_records = []
+                for ent_type, ent_list in entities.get('pattern_entities', {}).items():
+                    for ent in ent_list:
+                        count = len([m for m in ent_list if m == ent]) if isinstance(ent_list, list) else 1
+                        entity_records.append({
+                            'Entity': ent,
+                            'Type': ent_type.replace('_', ' ').title(),
+                            'Count': count
+                        })
+
+                if entity_records:
+                    df_entities = pd.DataFrame(entity_records).drop_duplicates().sort_values('Count', ascending=False)
+                    st.dataframe(df_entities, use_container_width=True)
+
+                    # Bar chart for top 20
+                    fig_ent = px.bar(df_entities.head(20), x='Entity', y='Count', color='Type', title='Top Entities')
+                    fig_ent.update_layout(xaxis_tickangle=-45, height=400)
+                    st.plotly_chart(fig_ent, use_container_width=True)
+
+                # ---------- Risk Indicator Overview ----------
+                st.markdown("### ⚠️ Risk Indicator Overview")
+                risk_records = []
+                for risk_type, terms in entities.get('risk_entities', {}).items():
+                    for term in terms:
+                        risk_records.append({
+                            'Risk Term': term,
+                            'Risk Type': risk_type.replace('_', ' ').title()
+                        })
+
+                if risk_records:
+                    df_risk = pd.DataFrame(risk_records).drop_duplicates()
+                    st.dataframe(df_risk, use_container_width=True)
+                    if not df_risk.empty:
+                        fig_risk = px.bar(df_risk.head(20), x='Risk Term', y=[1]*len(df_risk.head(20)), color='Risk Type', title='Risk Terms')
+                        fig_risk.update_layout(yaxis_title='Presence', xaxis_tickangle=-45, height=300)
+                        st.plotly_chart(fig_risk, use_container_width=True)
+
+                # ---------- Quick-search Tags ----------
+                st.markdown("### 🔍 Quick Search Tags")
+                top_entities = df_entities.head(12).to_dict('records') if entity_records else []
+                cols = st.columns(4)
+                for i, ent_row in enumerate(top_entities):
+                    col_idx = i % 4
+                    with cols[col_idx]:
+                        if st.button(ent_row['Entity'], key=f"quick_tag_{ent_row['Entity']}"):
+                            st.session_state['search_term'] = ent_row['Entity']
         
         with tab3:
             st.header("📈 Financial Analysis")
