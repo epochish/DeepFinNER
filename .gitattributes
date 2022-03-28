@@ -1,0 +1,6 @@
+# Exclude scraped filings & screenshots from language stats
+Scrape_Data_New/** linguist-generated=true
+docs/screenshots/** linguist-generated=true
+data/raw/**        linguist-generated=true
+*.html             linguist-generated=true
+*.txt              linguist-generated=true
