@@ -94,7 +94,6 @@ ui/app.py               # Streamlit dashboard
 
 ## 📸 Screenshots
 
-> Replace the placeholder images once you capture your own dashboard views.
 
 | Dashboard landing | Relationship graph | Sentence sentiment & entities |
 |---|---|---|
