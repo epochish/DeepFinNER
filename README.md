@@ -100,8 +100,7 @@ ui/app.py               # Streamlit dashboard
 |---|---|---|
 | ![Dashboard](docs/screenshots/dashboard.png) | ![Graph](docs/screenshots/graph.png) | ![Sentiment](docs/screenshots/sentences_entities.png) |
 
----
-MIT Licensed – ©2025 DeepFinNER contributors 
+
 
 ---
 
